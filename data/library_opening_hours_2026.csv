@@ -1,0 +1,39 @@
+branch_id,branch_name,district,mon,tue,wed,thu,fri,sat,sun
+LB01,School Library,Riverside,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,10:00-16:00,closed
+LB02,Chapel Central Library,Hillcrest,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00
+LB03,Orchard Library,Harbour,09:30-18:00,09:30-18:00,closed,09:30-18:00,09:30-18:00,closed,closed
+LB04,Meadow Library,Harbour,10:00-17:30,10:00-17:30,10:00-17:30,10:00-17:30,10:00-17:30,10:00-16:00,closed
+LB05,Quarry Library,North,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,10:00-16:00,closed
+LB06,Ash Library,Riverside,09:30-18:00,09:30-18:00,09:30-18:00,09:30-18:00,09:30-18:00,10:00-16:00,closed
+LB07,Ash Central Library,Westgate,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00
+LB08,Church Library,Harbour,09:30-17:00,09:30-17:00,closed,09:30-17:00,09:30-17:00,closed,closed
+LB09,Chapel Library,Old Town,09:30-17:30,09:30-17:30,09:30-17:30,09:30-17:30,09:30-17:30,10:00-16:00,closed
+LB10,Quarry Library,Westgate,09:30-17:00,09:30-17:00,09:30-17:00,closed,closed,10:00-16:00,closed
+LB11,Church Library,Hillcrest,closed,09:30-18:00,09:30-18:00,09:30-18:00,09:30-18:00,closed,closed
+LB12,Forge Library,Westgate,09:30-17:30,09:30-17:30,09:30-17:30,09:30-17:30,09:30-17:30,10:00-16:00,closed
+LB13,Meadow Library,North,closed,10:00-18:00,10:00-18:00,10:00-18:00,10:00-18:00,10:00-16:00,closed
+LB14,Willow Library,Riverside,10:00-17:30,10:00-17:30,10:00-17:30,closed,10:00-17:30,10:00-16:00,closed
+LB15,Meadow Library,Old Town,10:00-17:30,10:00-17:30,10:00-17:30,10:00-17:30,10:00-17:30,closed,closed
+LB16,Quarry Central Library,North,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00
+LB17,Orchard Library,Eastfield,10:00-17:00,10:00-17:00,10:00-17:00,10:00-17:00,closed,10:00-16:00,closed
+LB18,Station Library,Eastfield,10:00-17:30,10:00-17:30,10:00-17:30,10:00-17:30,10:00-17:30,10:00-16:00,closed
+LB19,Garden Library,Harbour,closed,10:00-18:00,10:00-18:00,10:00-18:00,10:00-18:00,10:00-16:00,closed
+LB20,Canal Library,Harbour,09:30-18:00,09:30-18:00,closed,09:30-18:00,09:30-18:00,closed,closed
+LB21,Orchard Library,Westgate,10:00-17:00,10:00-17:00,10:00-17:00,10:00-17:00,10:00-17:00,10:00-16:00,closed
+LB22,Willow Library,Hillcrest,09:30-17:30,09:30-17:30,09:30-17:30,09:30-17:30,09:30-17:30,10:00-16:00,closed
+LB23,Forge Central Library,Harbour,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00
+LB24,Market Library,Eastfield,09:30-17:30,09:30-17:30,09:30-17:30,09:30-17:30,09:30-17:30,10:00-16:00,closed
+LB25,Forge Library,Harbour,10:00-18:00,10:00-18:00,10:00-18:00,10:00-18:00,10:00-18:00,10:00-16:00,closed
+LB26,Quarry Library,Riverside,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,10:00-16:00,closed
+LB27,Ash Central Library,Harbour,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00
+LB28,Church Central Library,Harbour,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00
+LB29,Willow Central Library,Hillcrest,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00
+LB30,Quarry Central Library,North,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00
+LB31,Orchard Library,Eastfield,closed,09:30-17:30,09:30-17:30,closed,closed,10:00-16:00,closed
+LB32,Bridge Library,North,closed,09:30-18:00,09:30-18:00,09:30-18:00,09:30-18:00,10:00-16:00,closed
+LB33,Orchard Library,Hillcrest,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,10:00-16:00,closed
+LB34,Park Library,Westgate,closed,closed,10:00-17:00,10:00-17:00,10:00-17:00,10:00-16:00,closed
+LB35,Garden Library,Old Town,10:00-18:00,10:00-18:00,10:00-18:00,10:00-18:00,10:00-18:00,closed,closed
+LB36,School Central Library,Eastfield,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,closed,12:00-16:00
+LB37,Orchard Library,Riverside,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,09:30-17:00,10:00-16:00,closed
+LB38,Forge Central Library,Old Town,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,09:00-20:00,10:00-16:00,12:00-16:00

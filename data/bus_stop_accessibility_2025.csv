@@ -1,0 +1,1241 @@
+stop_id,stop_name,district,x_m,y_m,shelter,bench,step_free_access,tactile_paving,audio_announcements,surveyed_on
+BS0001,Church Street,Eastfield,9118,6891,yes,yes,no,no,no,2025-09-15
+BS0002,Forge Street North,Eastfield,1322,1814,yes,yes,yes,yes,yes,2025-08-25
+BS0003,Canal Street West,Old Town,5696,5843,yes,yes,no,no,no,2025-03-22
+BS0004,Orchard Way,Old Town,4712,7494,no,yes,yes,no,yes,2025-08-31
+BS0005,Forge Avenue North,Harbour,9596,8166,yes,yes,no,yes,no,2025-08-03
+BS0006,Chapel Way East,Westgate,6880,7851,no,no,no,no,no,2025-03-15
+BS0007,Church Hill,Harbour,7701,2333,no,no,yes,no,no,2025-06-27
+BS0008,Willow Way West,Hillcrest,5040,8980,no,no,yes,yes,no,2025-06-21
+BS0009,Willow Road North,Riverside,10742,7507,yes,yes,no,no,no,2025-04-23
+BS0010,Ash Avenue,Westgate,8145,7114,yes,yes,yes,no,no,2025-05-23
+BS0011,Church Avenue,Old Town,7420,2999,yes,yes,no,no,no,2025-03-19
+BS0012,Ash Lane North,Riverside,6738,2397,no,no,yes,yes,no,2025-03-24
+BS0013,Park Street North,Eastfield,731,8953,no,no,yes,no,yes,2025-05-22
+BS0014,Ash Hill South,Eastfield,3652,7749,no,no,no,no,no,2025-03-24
+BS0015,Bridge Street,Old Town,8318,6750,yes,yes,yes,yes,no,2025-06-07
+BS0016,Church Avenue North,North,5685,5790,yes,yes,no,no,yes,2025-07-02
+BS0017,Garden Avenue East,North,8152,7644,yes,yes,yes,no,yes,2025-07-14
+BS0018,Canal Avenue,Riverside,11116,1138,yes,yes,yes,yes,no,2025-04-16
+BS0019,Station Avenue South,Harbour,11648,335,yes,yes,yes,no,no,2025-07-13
+BS0020,Market Street South,Harbour,4469,6969,no,no,no,yes,yes,2025-04-16
+BS0021,Ash Avenue East,Harbour,2899,5337,yes,yes,yes,yes,no,2025-07-15
+BS0022,Church Street South,North,1525,7440,no,no,yes,no,no,2025-08-21
+BS0023,Mill Lane South,Old Town,9207,8820,yes,yes,yes,no,yes,2025-09-11
+BS0024,Park Way East,Eastfield,4392,2172,no,yes,yes,no,yes,2025-08-25
+BS0025,School Hill South,Hillcrest,10323,1741,yes,yes,yes,yes,no,2025-05-16
+BS0026,Bridge Lane East,North,227,6744,no,no,no,yes,no,2025-03-17
+BS0027,Mill Lane North,North,11236,5739,yes,yes,yes,yes,no,2025-09-01
+BS0028,Chapel Lane,Riverside,9733,7580,no,no,yes,yes,no,2025-07-09
+BS0029,Willow Avenue East,Westgate,5837,944,no,no,yes,yes,no,2025-05-16
+BS0030,Church Lane West,Old Town,9594,332,no,no,yes,no,no,2025-03-31
+BS0031,Church Road North,Riverside,8562,5800,yes,yes,yes,no,yes,2025-06-19
+BS0032,School Avenue West,Harbour,3920,6897,no,no,no,yes,yes,2025-09-02
+BS0033,Chapel Lane South,Riverside,382,271,no,no,yes,yes,no,2025-08-10
+BS0034,Bridge Way North,Hillcrest,8422,4345,no,no,yes,no,yes,2025-03-05
+BS0035,Quarry Avenue North,Riverside,11127,8333,no,no,no,no,no,2025-06-03
+BS0036,Quarry Way East,Old Town,3292,6139,no,no,yes,no,no,2025-08-22
+BS0037,Park Street West,Riverside,7943,87,no,no,no,no,no,2025-03-12
+BS0038,Orchard Lane East,Eastfield,11976,4342,no,yes,no,no,yes,2025-04-27
+BS0039,Garden Way North,Harbour,6235,8830,no,no,yes,no,yes,2025-07-11
+BS0040,Market Hill West,Old Town,8970,4283,yes,yes,yes,no,no,2025-04-20
+BS0041,Garden Lane,Old Town,5852,2195,yes,yes,no,yes,no,2025-03-05
+BS0042,Ash Avenue East,Westgate,8804,2799,no,no,yes,yes,yes,2025-03-10
+BS0043,Mill Lane North,Old Town,4958,3542,no,no,yes,yes,yes,2025-05-25
+BS0044,Orchard Avenue East,Eastfield,4939,1925,yes,yes,yes,no,yes,2025-07-13
+BS0045,School Hill West,Eastfield,5654,1352,yes,yes,yes,no,no,2025-09-18
+BS0046,Quarry Street East,Harbour,8294,5434,yes,yes,yes,no,no,2025-07-07
+BS0047,Bridge Street West,Riverside,11291,5710,yes,yes,no,yes,no,2025-08-01
+BS0048,Market Avenue,Hillcrest,2090,7066,yes,yes,yes,no,no,2025-06-24
+BS0049,Willow Street East,Riverside,9196,2019,yes,yes,yes,no,no,2025-06-13
+BS0050,Canal Hill West,Old Town,1556,8104,yes,yes,no,no,no,2025-08-20
+BS0051,Park Avenue East,Hillcrest,5414,983,no,no,no,yes,no,2025-05-06
+BS0052,Meadow Avenue West,Old Town,192,614,yes,yes,no,no,no,2025-05-10
+BS0053,Park Avenue,Old Town,10204,6052,yes,yes,yes,no,no,2025-03-05
+BS0054,Market Lane South,Harbour,3381,2798,no,no,yes,yes,no,2025-07-31
+BS0055,Church Road East,Harbour,728,3035,no,no,yes,yes,no,2025-07-01
+BS0056,Canal Lane East,Old Town,9938,7859,no,no,no,no,yes,2025-07-06
+BS0057,Ash Lane East,Westgate,7636,3256,yes,yes,yes,no,no,2025-05-19
+BS0058,Station Avenue North,Hillcrest,11830,8338,yes,yes,yes,no,yes,2025-07-04
+BS0059,Canal Avenue East,Hillcrest,5564,5899,no,yes,no,no,yes,2025-05-07
+BS0060,Chapel Hill North,Eastfield,3519,473,no,no,yes,no,no,2025-07-12
+BS0061,Willow Hill West,Riverside,9156,5337,yes,yes,yes,no,no,2025-09-04
+BS0062,Market Way,Hillcrest,2508,2358,yes,yes,yes,no,no,2025-03-18
+BS0063,Station Lane East,Westgate,2932,2280,no,no,yes,yes,no,2025-04-19
+BS0064,Bridge Hill South,Harbour,10505,8023,no,no,no,yes,no,2025-07-19
+BS0065,Meadow Street East,Riverside,11711,8326,yes,yes,yes,yes,yes,2025-07-31
+BS0066,Willow Lane North,Riverside,8245,3134,no,no,yes,no,yes,2025-04-15
+BS0067,Ash Street East,Riverside,8779,6913,yes,yes,no,yes,no,2025-04-25
+BS0068,Forge Way,Harbour,1503,3457,no,no,yes,yes,no,2025-08-09
+BS0069,Church Street South,Hillcrest,7103,3101,no,no,no,yes,no,2025-04-09
+BS0070,Willow Lane East,Harbour,156,7808,no,no,no,no,no,2025-04-07
+BS0071,Market Way South,Old Town,7471,6183,yes,yes,yes,no,no,2025-08-21
+BS0072,Willow Hill North,Harbour,7676,5667,no,no,no,no,no,2025-05-12
+BS0073,Orchard Way North,North,8644,7412,yes,yes,yes,yes,no,2025-07-28
+BS0074,Ash Way North,Riverside,5216,2200,no,yes,yes,yes,no,2025-03-07
+BS0075,Orchard Way,North,12000,5487,no,no,yes,yes,no,2025-06-30
+BS0076,Chapel Street,Westgate,5121,6862,no,yes,yes,yes,yes,2025-04-01
+BS0077,Chapel Avenue,North,8174,3580,no,no,yes,yes,yes,2025-05-03
+BS0078,Canal Lane West,Westgate,9508,430,no,no,no,yes,no,2025-07-25
+BS0079,Park Way North,Eastfield,2786,7492,yes,yes,yes,yes,yes,2025-06-17
+BS0080,Mill Street South,North,4303,2768,yes,yes,yes,no,yes,2025-04-14
+BS0081,Station Street,North,7330,582,no,no,no,no,no,2025-07-12
+BS0082,Station Street West,North,4772,1492,no,yes,yes,yes,yes,2025-08-15
+BS0083,Willow Road,Riverside,8969,8465,yes,yes,yes,yes,no,2025-07-19
+BS0084,Chapel Avenue North,Riverside,515,247,yes,yes,yes,no,no,2025-08-09
+BS0085,Quarry Street,Riverside,8271,5522,yes,yes,yes,no,no,2025-06-30
+BS0086,School Road South,Eastfield,8467,3984,yes,yes,no,yes,no,2025-08-25
+BS0087,Bridge Avenue,North,2272,24,no,no,yes,no,no,2025-08-21
+BS0088,School Road,North,10654,4133,no,no,yes,yes,yes,2025-08-22
+BS0089,Bridge Lane,North,467,5612,no,no,yes,yes,yes,2025-08-20
+BS0090,Bridge Way,Hillcrest,7833,1853,yes,yes,yes,yes,no,2025-04-09
+BS0091,Willow Road West,Eastfield,4841,2466,yes,yes,yes,no,no,2025-04-03
+BS0092,Canal Avenue North,Westgate,6311,4484,yes,yes,yes,yes,no,2025-05-18
+BS0093,Meadow Avenue East,Westgate,5130,2755,yes,yes,yes,no,yes,2025-08-28
+BS0094,Chapel Street East,Riverside,1663,3765,yes,yes,yes,no,no,2025-06-12
+BS0095,Garden Way,Harbour,11364,4319,yes,yes,yes,no,yes,2025-07-11
+BS0096,Park Lane South,Westgate,7053,2048,yes,yes,yes,yes,no,2025-03-18
+BS0097,Station Way,Old Town,9204,4881,no,no,yes,no,no,2025-07-11
+BS0098,School Lane West,Eastfield,3613,221,yes,yes,yes,yes,no,2025-06-04
+BS0099,Quarry Way,Harbour,5836,477,no,yes,yes,no,no,2025-04-12
+BS0100,Park Lane North,Eastfield,1385,1662,yes,yes,yes,yes,no,2025-05-30
+BS0101,Church Avenue South,Old Town,5088,56,no,yes,yes,yes,yes,2025-08-10
+BS0102,Church Street,Westgate,7957,5585,yes,yes,yes,yes,no,2025-04-10
+BS0103,Church Way West,Westgate,2145,1493,yes,yes,yes,yes,no,2025-03-19
+BS0104,Station Avenue West,Old Town,1614,770,yes,yes,yes,yes,yes,2025-09-01
+BS0105,Quarry Avenue North,Old Town,2767,179,yes,yes,no,no,no,2025-05-08
+BS0106,Meadow Road South,Old Town,1242,6725,no,no,yes,no,yes,2025-06-20
+BS0107,Garden Street,Eastfield,2970,8643,no,no,yes,no,no,2025-05-16
+BS0108,Willow Street,Harbour,2670,5862,yes,yes,no,yes,yes,2025-03-31
+BS0109,Quarry Road South,Eastfield,9747,5531,no,no,no,no,yes,2025-05-28
+BS0110,Meadow Way West,Eastfield,6165,1744,yes,yes,no,no,no,2025-09-12
+BS0111,Canal Way West,Old Town,236,5836,no,no,yes,yes,no,2025-06-03
+BS0112,Station Way North,Westgate,11616,4816,yes,yes,yes,no,yes,2025-09-16
+BS0113,Willow Avenue East,Westgate,11626,4216,yes,yes,yes,yes,yes,2025-04-17
+BS0114,School Way,Harbour,1689,8790,yes,yes,yes,no,yes,2025-03-30
+BS0115,Quarry Road North,North,1176,6359,no,yes,yes,no,no,2025-09-12
+BS0116,Garden Avenue East,Eastfield,11082,7228,no,yes,yes,yes,yes,2025-07-18
+BS0117,Chapel Hill North,North,7428,6759,yes,yes,no,yes,no,2025-09-19
+BS0118,Church Street West,Riverside,4419,7569,yes,yes,yes,yes,no,2025-09-14
+BS0119,Garden Road North,Riverside,7640,6326,no,yes,yes,yes,no,2025-06-04
+BS0120,Orchard Lane,Riverside,3185,5573,no,no,yes,no,no,2025-03-21
+BS0121,Forge Way East,Westgate,2255,2798,no,yes,yes,no,no,2025-07-31
+BS0122,School Street South,Westgate,2916,5892,no,no,no,no,no,2025-05-15
+BS0123,Station Way East,Westgate,3708,4522,no,no,no,no,yes,2025-06-27
+BS0124,Church Street East,North,4234,6789,yes,yes,yes,yes,yes,2025-08-29
+BS0125,Station Road East,Westgate,7127,1475,no,no,yes,no,yes,2025-05-22
+BS0126,Canal Road East,Harbour,8533,6748,yes,yes,yes,no,no,2025-03-13
+BS0127,Ash Hill West,Hillcrest,7027,1020,yes,yes,yes,yes,no,2025-07-19
+BS0128,School Avenue,Westgate,1325,340,no,no,no,yes,no,2025-07-01
+BS0129,Ash Avenue North,Hillcrest,10575,5831,yes,yes,no,yes,yes,2025-04-29
+BS0130,Willow Street West,Hillcrest,146,1986,no,yes,no,yes,yes,2025-08-14
+BS0131,Park Hill,Old Town,2938,5042,yes,yes,no,yes,no,2025-07-23
+BS0132,Orchard Avenue West,Westgate,6029,3524,yes,yes,yes,no,no,2025-08-30
+BS0133,Willow Lane South,Hillcrest,5418,1456,no,no,no,yes,no,2025-04-28
+BS0134,Quarry Lane,Harbour,7643,7449,no,yes,yes,no,no,2025-05-16
+BS0135,Station Lane West,Old Town,11392,1102,no,no,no,no,no,2025-06-18
+BS0136,Willow Road North,Eastfield,2121,4049,yes,yes,no,no,no,2025-04-29
+BS0137,Willow Road East,Riverside,9269,4485,yes,yes,no,yes,no,2025-09-11
+BS0138,Orchard Way South,Old Town,4364,6514,no,yes,yes,yes,no,2025-09-12
+BS0139,Mill Hill,North,1138,896,no,no,no,yes,no,2025-04-05
+BS0140,Ash Road North,Eastfield,1773,7269,yes,yes,no,yes,no,2025-04-11
+BS0141,Quarry Road East,Harbour,538,3267,yes,yes,yes,no,no,2025-06-25
+BS0142,Church Avenue West,Westgate,1271,1722,no,no,yes,yes,yes,2025-03-10
+BS0143,Quarry Road North,Westgate,5003,91,yes,yes,yes,yes,yes,2025-04-14
+BS0144,Forge Road West,Harbour,1615,5524,yes,yes,no,yes,no,2025-03-14
+BS0145,Market Avenue West,North,8375,1533,yes,yes,no,no,no,2025-06-26
+BS0146,Canal Avenue,Hillcrest,2838,2777,yes,yes,yes,no,yes,2025-04-20
+BS0147,Station Street West,Hillcrest,1650,8391,yes,yes,yes,yes,no,2025-04-06
+BS0148,Church Lane West,North,10898,6596,no,no,yes,yes,no,2025-03-17
+BS0149,Quarry Lane North,Harbour,8164,6797,yes,yes,no,no,no,2025-05-23
+BS0150,Park Lane,Hillcrest,1492,2263,no,no,yes,no,no,2025-08-24
+BS0151,Chapel Lane South,Westgate,6663,6480,no,no,yes,yes,yes,2025-08-18
+BS0152,Bridge Road,Hillcrest,11715,2197,no,no,yes,no,yes,2025-05-17
+BS0153,Bridge Way South,Harbour,11341,413,yes,yes,no,no,no,2025-08-29
+BS0154,Chapel Road North,Eastfield,8534,7368,yes,yes,yes,yes,yes,2025-07-18
+BS0155,Church Street South,Hillcrest,10243,2346,yes,yes,yes,yes,no,2025-09-09
+BS0156,Park Hill West,Eastfield,2297,7664,yes,yes,yes,yes,no,2025-03-27
+BS0157,Chapel Hill North,Riverside,1537,3119,no,no,yes,yes,yes,2025-04-14
+BS0158,Chapel Hill,Harbour,9853,5478,yes,yes,yes,yes,no,2025-09-17
+BS0159,Canal Lane North,North,3299,5929,yes,yes,yes,no,no,2025-03-16
+BS0160,Ash Road West,North,10562,2030,yes,yes,yes,no,yes,2025-05-02
+BS0161,Orchard Avenue East,Eastfield,6015,579,no,no,yes,yes,no,2025-09-16
+BS0162,Willow Street North,Harbour,1249,684,yes,yes,yes,no,yes,2025-04-17
+BS0163,Bridge Road East,Westgate,2594,30,yes,yes,yes,no,yes,2025-07-17
+BS0164,Willow Road,Riverside,4733,1900,no,no,no,yes,yes,2025-07-11
+BS0165,Orchard Street East,Westgate,2163,1865,yes,yes,no,yes,yes,2025-04-27
+BS0166,Chapel Street West,Westgate,8721,7602,no,no,yes,no,no,2025-04-15
+BS0167,Chapel Way East,Old Town,11130,2495,yes,yes,yes,no,no,2025-03-21
+BS0168,Bridge Way West,Old Town,4179,7284,no,no,yes,no,no,2025-06-30
+BS0169,Quarry Avenue North,Hillcrest,5923,5579,yes,yes,yes,no,no,2025-06-27
+BS0170,Meadow Road East,Harbour,4340,3605,yes,yes,yes,no,no,2025-08-22
+BS0171,Chapel Way West,Harbour,1790,166,no,no,no,yes,yes,2025-06-13
+BS0172,Garden Road South,Harbour,2925,436,no,no,yes,no,no,2025-06-18
+BS0173,Mill Avenue East,Harbour,8254,6255,yes,yes,yes,yes,yes,2025-03-17
+BS0174,Bridge Road South,Eastfield,7057,2800,yes,yes,no,yes,no,2025-06-24
+BS0175,Canal Street,Harbour,1448,1841,yes,yes,yes,no,no,2025-07-08
+BS0176,Mill Road South,Westgate,8346,2093,yes,yes,yes,yes,no,2025-03-25
+BS0177,Meadow Way South,Eastfield,8541,4278,no,no,no,no,yes,2025-06-08
+BS0178,Market Lane East,Riverside,1027,7651,no,no,yes,no,no,2025-04-25
+BS0179,Park Road West,Hillcrest,7774,7200,yes,yes,yes,yes,yes,2025-08-28
+BS0180,Park Lane East,Harbour,10524,6457,yes,yes,yes,no,no,2025-03-19
+BS0181,Station Street South,Riverside,1192,2084,yes,yes,no,no,no,2025-08-01
+BS0182,Bridge Avenue North,Riverside,8622,3088,yes,yes,no,yes,no,2025-05-11
+BS0183,Ash Road East,Hillcrest,450,2081,no,no,no,yes,no,2025-03-17
+BS0184,Bridge Lane West,Old Town,8124,8207,yes,yes,yes,yes,no,2025-04-27
+BS0185,Market Avenue North,Hillcrest,6999,4238,yes,yes,yes,no,yes,2025-05-16
+BS0186,Garden Avenue North,Westgate,9383,7047,yes,yes,no,no,no,2025-05-26
+BS0187,Station Road West,Hillcrest,4397,8543,no,no,no,no,no,2025-03-31
+BS0188,Quarry Road East,Harbour,696,4224,yes,yes,no,yes,no,2025-04-22
+BS0189,Orchard Way East,Westgate,10533,6896,no,yes,no,yes,yes,2025-08-31
+BS0190,Canal Hill East,Old Town,5056,6207,no,yes,yes,yes,no,2025-09-09
+BS0191,Market Road North,Hillcrest,2814,5752,no,no,no,yes,no,2025-04-14
+BS0192,Orchard Way,Eastfield,968,4643,no,no,yes,no,no,2025-04-17
+BS0193,Quarry Street West,Hillcrest,9277,7285,yes,yes,yes,no,yes,2025-07-15
+BS0194,Garden Street East,Harbour,4972,4350,yes,yes,no,no,no,2025-05-10
+BS0195,Station Hill West,Old Town,5986,8551,no,no,no,no,no,2025-09-12
+BS0196,Willow Lane West,North,8532,6906,yes,yes,yes,yes,no,2025-06-13
+BS0197,School Avenue East,North,6720,4696,yes,yes,yes,no,no,2025-07-19
+BS0198,Garden Hill South,Riverside,1220,7638,no,no,no,no,yes,2025-03-10
+BS0199,Forge Avenue West,Harbour,3186,8506,yes,yes,yes,no,yes,2025-03-05
+BS0200,Willow Road,Harbour,1106,3776,yes,yes,yes,no,yes,2025-06-20
+BS0201,Canal Avenue South,North,4431,3086,no,no,yes,no,no,2025-09-05
+BS0202,Church Way North,Hillcrest,7314,5732,yes,yes,yes,no,no,2025-04-09
+BS0203,Willow Hill West,Harbour,4850,1272,no,yes,yes,no,no,2025-04-19
+BS0204,Willow Way East,Riverside,10962,5441,yes,yes,no,yes,yes,2025-06-05
+BS0205,Forge Way West,Eastfield,1041,7967,no,no,yes,no,no,2025-07-31
+BS0206,Church Avenue,Harbour,8863,5652,no,no,yes,yes,no,2025-06-03
+BS0207,Garden Hill,Riverside,11900,6732,no,no,yes,no,no,2025-04-20
+BS0208,Bridge Lane East,Eastfield,7460,1106,yes,yes,yes,yes,no,2025-04-23
+BS0209,Willow Road South,Riverside,214,1171,yes,yes,yes,yes,no,2025-08-07
+BS0210,Canal Avenue East,North,5125,8700,yes,yes,yes,no,no,2025-05-28
+BS0211,School Avenue,North,480,1820,no,no,no,no,no,2025-08-06
+BS0212,Park Street West,North,7897,4596,yes,yes,yes,yes,no,2025-04-26
+BS0213,Church Road East,Eastfield,3411,8174,yes,yes,yes,yes,no,2025-07-04
+BS0214,Garden Avenue North,Old Town,7658,3201,no,yes,yes,no,yes,2025-04-06
+BS0215,Ash Avenue North,Riverside,2844,7334,no,no,no,no,yes,2025-03-13
+BS0216,Meadow Lane South,Eastfield,2618,5064,no,no,no,yes,yes,2025-05-18
+BS0217,Park Lane,North,8385,3387,no,no,yes,yes,no,2025-05-27
+BS0218,Garden Lane North,Westgate,5345,8794,no,no,yes,no,yes,2025-04-06
+BS0219,Market Road East,Hillcrest,2338,6478,yes,yes,yes,yes,no,2025-08-24
+BS0220,Chapel Street West,Westgate,10225,5559,no,no,yes,no,no,2025-03-18
+BS0221,Orchard Road East,Riverside,8832,6519,yes,yes,yes,no,no,2025-05-24
+BS0222,Quarry Road North,Westgate,10287,592,yes,yes,yes,yes,no,2025-06-04
+BS0223,Forge Street South,Riverside,4381,8545,no,no,no,yes,no,2025-04-10
+BS0224,Canal Lane,Westgate,545,8510,yes,yes,yes,yes,yes,2025-05-10
+BS0225,Canal Way North,Hillcrest,6958,1873,yes,yes,no,yes,no,2025-06-05
+BS0226,Canal Lane,Westgate,3905,4316,yes,yes,yes,yes,no,2025-03-23
+BS0227,Canal Hill East,Eastfield,10400,3116,no,no,no,no,no,2025-07-19
+BS0228,Station Hill South,Hillcrest,6665,1494,yes,yes,yes,no,no,2025-03-05
+BS0229,Forge Lane South,Westgate,6768,8364,no,yes,yes,no,yes,2025-09-06
+BS0230,Park Hill West,Harbour,1868,2381,no,no,yes,no,no,2025-04-19
+BS0231,Ash Lane South,Harbour,585,7712,no,yes,yes,no,no,2025-04-12
+BS0232,Quarry Street West,Old Town,4550,5360,yes,yes,yes,yes,yes,2025-08-12
+BS0233,Mill Lane South,North,751,4750,no,no,yes,yes,yes,2025-08-25
+BS0234,Bridge Lane North,Old Town,2460,1241,no,no,yes,no,no,2025-06-02
+BS0235,Market Avenue North,Old Town,9209,1438,no,no,yes,yes,no,2025-09-16
+BS0236,Quarry Street,Eastfield,479,7321,yes,yes,yes,no,yes,2025-03-25
+BS0237,Ash Road West,North,1953,6467,yes,yes,yes,no,no,2025-05-19
+BS0238,Forge Way West,Eastfield,3942,8179,no,no,yes,no,yes,2025-09-07
+BS0239,Meadow Hill North,Riverside,4736,2054,yes,yes,yes,yes,no,2025-06-18
+BS0240,Chapel Road South,Harbour,11018,8979,no,no,yes,yes,no,2025-03-28
+BS0241,Garden Avenue West,Hillcrest,3074,3569,yes,yes,yes,yes,no,2025-09-12
+BS0242,Chapel Hill South,North,5000,4209,yes,yes,yes,no,yes,2025-07-10
+BS0243,Quarry Street North,Harbour,8775,3011,no,no,yes,yes,no,2025-08-13
+BS0244,Church Lane South,Riverside,1691,6800,yes,yes,yes,no,no,2025-08-31
+BS0245,Willow Hill South,Westgate,10577,1378,no,no,yes,yes,yes,2025-04-19
+BS0246,Ash Hill South,Old Town,5731,5286,no,no,yes,yes,no,2025-09-11
+BS0247,Meadow Road North,North,2285,968,yes,yes,yes,yes,no,2025-04-19
+BS0248,Forge Street West,Harbour,10756,6993,yes,yes,yes,yes,no,2025-06-07
+BS0249,Ash Street North,Harbour,4461,8946,no,no,yes,no,yes,2025-03-10
+BS0250,Park Hill West,Eastfield,11313,7669,no,no,yes,yes,yes,2025-09-07
+BS0251,Mill Road East,Harbour,1868,5091,no,no,no,no,no,2025-07-21
+BS0252,School Lane North,Old Town,3536,8117,yes,yes,no,no,yes,2025-04-10
+BS0253,Church Way West,North,7831,7147,yes,yes,no,no,no,2025-04-27
+BS0254,Station Lane West,North,8652,7364,yes,yes,no,no,no,2025-07-04
+BS0255,Willow Way,Harbour,11357,1738,yes,yes,yes,no,yes,2025-06-10
+BS0256,Garden Way South,North,10842,7319,no,no,yes,no,no,2025-07-07
+BS0257,Willow Way South,Eastfield,10829,4294,yes,yes,yes,yes,yes,2025-08-15
+BS0258,Mill Hill East,Riverside,5363,1382,yes,yes,no,no,no,2025-03-14
+BS0259,Garden Street,North,7257,2556,yes,yes,no,yes,no,2025-08-03
+BS0260,Canal Avenue,North,11577,7134,no,no,yes,yes,no,2025-03-17
+BS0261,Canal Street East,Harbour,8408,7377,yes,yes,yes,yes,no,2025-04-18
+BS0262,Ash Hill West,Old Town,7397,5033,no,no,yes,yes,no,2025-03-06
+BS0263,Station Street South,Riverside,517,3363,yes,yes,yes,yes,yes,2025-07-08
+BS0264,Ash Road South,Riverside,8139,7021,no,yes,no,no,no,2025-08-15
+BS0265,Bridge Road East,Old Town,4070,3301,no,no,yes,yes,no,2025-05-09
+BS0266,Garden Street South,Harbour,6525,260,no,yes,yes,yes,yes,2025-08-10
+BS0267,Chapel Avenue West,North,2415,167,yes,yes,yes,no,no,2025-08-12
+BS0268,Quarry Hill South,Eastfield,2159,5418,no,no,yes,no,no,2025-03-25
+BS0269,School Avenue West,North,2098,6970,yes,yes,yes,yes,no,2025-04-23
+BS0270,Church Road East,Hillcrest,11537,6272,no,no,no,yes,yes,2025-05-28
+BS0271,Quarry Hill South,Harbour,1603,6144,no,no,no,yes,no,2025-04-07
+BS0272,Church Road North,Riverside,9322,4820,yes,yes,no,yes,yes,2025-04-12
+BS0273,Willow Street North,Westgate,3757,5198,no,no,no,yes,yes,2025-07-21
+BS0274,Quarry Hill East,Harbour,9227,6513,no,yes,yes,no,yes,2025-08-03
+BS0275,School Street North,Hillcrest,1668,1349,no,no,yes,no,yes,2025-08-12
+BS0276,Station Road East,Harbour,7553,3005,yes,yes,yes,yes,no,2025-03-21
+BS0277,Church Hill North,Harbour,9017,4350,no,no,yes,no,no,2025-05-07
+BS0278,Canal Avenue North,Eastfield,3098,4495,no,no,yes,yes,no,2025-05-19
+BS0279,Garden Way North,Westgate,10360,1673,yes,yes,yes,no,yes,2025-05-09
+BS0280,Willow Way,Hillcrest,2088,556,yes,yes,no,yes,yes,2025-05-14
+BS0281,Orchard Way North,Old Town,11071,3813,no,no,no,yes,yes,2025-07-30
+BS0282,Canal Street North,North,4049,4825,no,no,yes,yes,yes,2025-03-11
+BS0283,Chapel Lane North,Old Town,2078,4901,no,no,no,yes,yes,2025-06-09
+BS0284,Market Hill North,North,1833,1571,yes,yes,yes,no,no,2025-04-29
+BS0285,Mill Hill North,Hillcrest,10572,1860,yes,yes,yes,yes,no,2025-03-28
+BS0286,Forge Street West,North,7671,2763,yes,yes,yes,no,no,2025-07-28
+BS0287,Station Lane East,Riverside,9313,4017,yes,yes,yes,no,yes,2025-07-28
+BS0288,Mill Hill South,Harbour,4387,4392,no,yes,yes,no,no,2025-08-11
+BS0289,Station Avenue West,Westgate,1924,3503,yes,yes,yes,yes,no,2025-09-19
+BS0290,School Hill West,Hillcrest,11009,7979,yes,yes,yes,yes,yes,2025-07-25
+BS0291,Garden Street South,North,11846,660,yes,yes,yes,yes,no,2025-08-29
+BS0292,Ash Lane East,Hillcrest,753,956,no,yes,no,yes,no,2025-05-16
+BS0293,Quarry Lane South,Eastfield,7327,5626,yes,yes,yes,yes,yes,2025-08-01
+BS0294,Mill Lane North,Old Town,3523,8401,yes,yes,yes,no,yes,2025-08-29
+BS0295,Station Street East,Hillcrest,583,7713,no,no,yes,no,no,2025-03-09
+BS0296,Canal Avenue,Westgate,1001,3876,yes,yes,no,no,yes,2025-06-05
+BS0297,Market Hill West,Eastfield,5519,7507,yes,yes,yes,yes,no,2025-06-20
+BS0298,Church Avenue West,Harbour,5556,107,no,no,yes,yes,yes,2025-06-23
+BS0299,Quarry Hill West,Eastfield,10872,6426,yes,yes,yes,no,no,2025-04-06
+BS0300,Meadow Way East,Westgate,8917,3524,yes,yes,yes,yes,no,2025-06-03
+BS0301,Park Lane,Harbour,11514,605,yes,yes,no,yes,no,2025-04-10
+BS0302,Chapel Hill North,Riverside,1693,7913,no,no,yes,yes,yes,2025-05-09
+BS0303,Church Way,Old Town,8010,8668,yes,yes,yes,no,no,2025-09-10
+BS0304,Market Way East,Riverside,9909,5451,no,no,yes,no,no,2025-04-18
+BS0305,Chapel Way South,North,859,5580,yes,yes,yes,yes,no,2025-03-05
+BS0306,Forge Avenue East,Westgate,2312,1360,no,no,no,yes,no,2025-09-04
+BS0307,Quarry Lane South,Hillcrest,11448,5202,yes,yes,yes,yes,no,2025-09-16
+BS0308,Market Road East,Old Town,4602,5298,no,no,yes,yes,yes,2025-04-28
+BS0309,Chapel Road West,Hillcrest,3004,5427,no,no,yes,yes,yes,2025-08-01
+BS0310,Mill Avenue North,Riverside,5912,3946,no,no,yes,no,no,2025-07-20
+BS0311,Chapel Hill West,Hillcrest,8914,793,yes,yes,yes,yes,no,2025-08-14
+BS0312,Meadow Lane,Old Town,2423,6395,no,no,yes,no,no,2025-03-24
+BS0313,Meadow Hill East,North,10103,7834,yes,yes,yes,no,yes,2025-05-25
+BS0314,Willow Way North,North,7674,5339,no,no,yes,no,no,2025-03-10
+BS0315,Bridge Lane North,North,9211,202,no,no,yes,no,yes,2025-08-21
+BS0316,Chapel Road West,North,9572,6331,no,no,yes,no,no,2025-03-30
+BS0317,Willow Lane South,Hillcrest,11333,1581,yes,yes,yes,yes,yes,2025-05-29
+BS0318,Orchard Hill South,North,1598,7694,yes,yes,yes,yes,no,2025-05-12
+BS0319,Market Road East,Riverside,11181,643,yes,yes,yes,no,no,2025-08-11
+BS0320,Church Street East,North,11258,5560,yes,yes,yes,no,no,2025-08-13
+BS0321,Willow Way West,Westgate,4255,821,no,yes,yes,yes,no,2025-06-17
+BS0322,Willow Road West,Eastfield,6120,7035,no,no,yes,yes,no,2025-05-13
+BS0323,Orchard Way West,Eastfield,5594,1509,yes,yes,yes,no,yes,2025-05-25
+BS0324,Chapel Lane,Old Town,11033,6404,no,yes,yes,yes,yes,2025-03-30
+BS0325,Forge Way East,Riverside,9022,1874,yes,yes,no,no,no,2025-05-11
+BS0326,Chapel Road East,North,11770,1896,yes,yes,no,no,no,2025-07-12
+BS0327,Orchard Hill South,Old Town,1045,5965,yes,yes,no,yes,yes,2025-07-14
+BS0328,Station Street South,Westgate,8105,900,no,no,yes,yes,yes,2025-03-12
+BS0329,Bridge Avenue North,Eastfield,2397,7781,yes,yes,yes,no,no,2025-08-18
+BS0330,Chapel Hill,Harbour,7681,579,yes,yes,yes,no,yes,2025-09-04
+BS0331,School Avenue East,Old Town,4502,323,yes,yes,yes,no,no,2025-05-28
+BS0332,Ash Street,Westgate,2857,2360,no,no,yes,yes,yes,2025-03-13
+BS0333,Station Hill East,Harbour,4315,7947,no,no,yes,no,no,2025-04-02
+BS0334,School Road,Westgate,3441,4170,yes,yes,yes,no,yes,2025-03-07
+BS0335,Garden Road,Harbour,11027,3709,no,no,yes,no,yes,2025-04-25
+BS0336,Orchard Street West,Hillcrest,7898,2888,yes,yes,yes,no,yes,2025-07-06
+BS0337,Willow Lane West,Westgate,6048,1664,yes,yes,yes,yes,yes,2025-09-03
+BS0338,Station Way North,Harbour,3691,6341,yes,yes,yes,no,no,2025-09-15
+BS0339,Canal Lane East,Eastfield,11334,7025,no,yes,yes,no,no,2025-08-20
+BS0340,Bridge Hill South,Riverside,3069,4429,no,no,yes,no,no,2025-04-28
+BS0341,Garden Street East,Riverside,1547,2821,no,yes,no,no,no,2025-03-30
+BS0342,Willow Street South,Hillcrest,1505,4863,yes,yes,yes,no,no,2025-08-17
+BS0343,Market Street South,Eastfield,3592,8002,yes,yes,yes,no,no,2025-03-15
+BS0344,Bridge Street,Riverside,2292,2744,no,no,yes,no,no,2025-08-18
+BS0345,Willow Avenue East,Riverside,3720,647,yes,yes,no,yes,yes,2025-07-20
+BS0346,Willow Avenue,North,8942,5009,yes,yes,yes,yes,no,2025-05-02
+BS0347,Mill Way East,North,7109,5119,no,no,no,yes,no,2025-04-17
+BS0348,Meadow Lane South,Harbour,4214,6446,yes,yes,yes,no,no,2025-06-16
+BS0349,Orchard Avenue,Old Town,625,4354,no,no,yes,yes,yes,2025-06-16
+BS0350,Market Avenue,North,11566,8123,yes,yes,yes,yes,no,2025-09-11
+BS0351,Forge Lane,North,1970,5533,yes,yes,yes,no,yes,2025-03-24
+BS0352,Park Road North,North,4287,5767,no,no,no,no,no,2025-09-11
+BS0353,Ash Road,North,7124,4787,no,no,yes,yes,no,2025-08-06
+BS0354,Park Street,Hillcrest,8353,4805,no,no,yes,no,yes,2025-03-04
+BS0355,Mill Avenue South,Westgate,1,1550,yes,yes,yes,no,yes,2025-03-28
+BS0356,Quarry Street East,Westgate,948,1160,yes,yes,no,no,no,2025-07-13
+BS0357,Market Avenue South,Riverside,11599,6625,yes,yes,yes,yes,no,2025-09-10
+BS0358,Station Avenue West,Hillcrest,11790,1233,yes,yes,yes,yes,yes,2025-06-23
+BS0359,Willow Road West,Old Town,5251,8133,no,yes,yes,yes,no,2025-08-23
+BS0360,Ash Avenue West,Westgate,3813,4561,yes,yes,no,yes,no,2025-03-09
+BS0361,Park Way South,Old Town,11001,1234,yes,yes,yes,no,no,2025-06-06
+BS0362,Garden Avenue East,Old Town,3210,3322,no,no,yes,no,no,2025-05-04
+BS0363,Garden Road West,Riverside,5795,7971,yes,yes,no,no,yes,2025-07-01
+BS0364,Orchard Hill South,Harbour,2794,8006,yes,yes,yes,yes,yes,2025-05-21
+BS0365,Orchard Hill,Harbour,6831,5057,yes,yes,yes,yes,no,2025-09-13
+BS0366,Meadow Hill South,Old Town,5065,3023,yes,yes,yes,yes,no,2025-06-14
+BS0367,Church Hill East,Westgate,4923,7714,yes,yes,no,no,no,2025-04-07
+BS0368,Garden Avenue South,Riverside,1878,563,no,yes,yes,no,no,2025-05-29
+BS0369,School Road North,Eastfield,8791,2208,no,no,yes,yes,no,2025-05-06
+BS0370,Quarry Hill East,Old Town,9433,1880,no,no,yes,yes,no,2025-04-23
+BS0371,Quarry Avenue South,North,9117,5011,yes,yes,no,yes,no,2025-08-22
+BS0372,Willow Street East,Eastfield,1079,5447,no,no,no,no,yes,2025-07-24
+BS0373,Mill Hill West,Riverside,11132,8036,yes,yes,no,no,yes,2025-04-06
+BS0374,Garden Street East,Harbour,4148,3685,no,yes,no,yes,no,2025-06-17
+BS0375,Forge Street South,Harbour,4187,5243,yes,yes,no,yes,no,2025-04-06
+BS0376,Quarry Street East,Eastfield,3258,8937,no,no,yes,no,yes,2025-07-17
+BS0377,Meadow Lane West,Old Town,2703,5083,no,yes,no,no,no,2025-09-18
+BS0378,Quarry Way South,Harbour,6931,2798,yes,yes,no,no,yes,2025-04-14
+BS0379,Bridge Hill North,North,11219,2523,yes,yes,yes,no,no,2025-05-24
+BS0380,School Road East,Riverside,1484,224,yes,yes,no,yes,no,2025-06-04
+BS0381,Ash Street,Hillcrest,2348,7601,no,yes,yes,no,no,2025-08-19
+BS0382,Forge Road East,Eastfield,4781,6691,yes,yes,yes,yes,no,2025-03-14
+BS0383,Meadow Road,Harbour,2369,5707,yes,yes,yes,yes,no,2025-06-18
+BS0384,Mill Street West,Old Town,11832,8956,yes,yes,yes,yes,yes,2025-06-04
+BS0385,Orchard Street East,North,8059,749,no,no,yes,yes,no,2025-05-17
+BS0386,Quarry Street West,Eastfield,6354,446,no,yes,yes,no,no,2025-06-23
+BS0387,Quarry Street West,Old Town,5893,8160,yes,yes,yes,no,yes,2025-07-20
+BS0388,Market Lane North,Riverside,2448,4429,yes,yes,yes,no,no,2025-05-18
+BS0389,Forge Way South,Old Town,2152,5046,no,yes,no,yes,no,2025-06-24
+BS0390,Bridge Lane East,Old Town,632,6142,yes,yes,yes,yes,no,2025-05-09
+BS0391,Mill Street East,North,9846,4792,yes,yes,yes,no,no,2025-08-13
+BS0392,Church Road South,Eastfield,7968,4687,yes,yes,yes,no,no,2025-05-22
+BS0393,Church Avenue North,Old Town,1654,7452,no,no,no,no,no,2025-03-12
+BS0394,Willow Lane,Old Town,2690,5620,no,no,yes,no,no,2025-05-08
+BS0395,Park Hill West,North,8768,3992,yes,yes,yes,no,no,2025-07-22
+BS0396,Market Way East,Hillcrest,10331,7204,no,no,yes,no,no,2025-05-17
+BS0397,Ash Hill North,Westgate,2575,7128,no,no,yes,yes,no,2025-03-28
+BS0398,Ash Avenue North,Old Town,9861,6215,yes,yes,yes,no,no,2025-07-06
+BS0399,School Road East,North,9361,7773,no,no,yes,yes,no,2025-05-30
+BS0400,Quarry Street South,Westgate,6878,5721,no,yes,yes,no,no,2025-07-15
+BS0401,Bridge Street,Harbour,3941,3103,yes,yes,no,no,no,2025-04-30
+BS0402,Church Street East,Old Town,11223,755,yes,yes,yes,yes,no,2025-07-08
+BS0403,Forge Way West,Harbour,5629,6647,yes,yes,no,yes,no,2025-06-28
+BS0404,Bridge Hill East,Harbour,11699,7550,no,yes,yes,no,no,2025-03-08
+BS0405,Market Lane North,Riverside,9573,3143,yes,yes,no,no,no,2025-05-23
+BS0406,Ash Avenue,Harbour,4671,5936,yes,yes,yes,yes,no,2025-09-12
+BS0407,Orchard Way East,Riverside,9507,7859,yes,yes,yes,no,no,2025-09-04
+BS0408,Orchard Hill North,Hillcrest,2940,7631,no,no,yes,no,yes,2025-09-16
+BS0409,Station Lane West,North,7730,8745,yes,yes,yes,no,no,2025-04-01
+BS0410,Chapel Avenue South,Hillcrest,3260,4065,yes,yes,no,yes,yes,2025-04-19
+BS0411,Bridge Road South,North,2154,4083,no,yes,no,yes,no,2025-06-26
+BS0412,Mill Avenue East,North,7284,7781,no,yes,yes,no,no,2025-06-26
+BS0413,Ash Street South,North,2446,1169,yes,yes,yes,no,yes,2025-05-11
+BS0414,School Avenue West,Old Town,7086,8464,yes,yes,yes,yes,no,2025-03-18
+BS0415,Ash Avenue,North,5736,7498,no,no,no,yes,yes,2025-03-15
+BS0416,Forge Avenue South,Hillcrest,5919,6903,yes,yes,yes,no,no,2025-03-27
+BS0417,Canal Road West,Old Town,7255,2831,yes,yes,yes,no,no,2025-04-23
+BS0418,Chapel Avenue East,Old Town,3344,7779,no,yes,yes,no,no,2025-03-13
+BS0419,Bridge Way North,Harbour,8113,6763,yes,yes,yes,yes,no,2025-08-03
+BS0420,Ash Street East,Hillcrest,6242,3208,no,no,yes,yes,no,2025-07-14
+BS0421,Canal Street North,Old Town,2768,7817,no,no,yes,no,no,2025-04-06
+BS0422,Willow Road North,Riverside,11091,5400,no,yes,yes,yes,no,2025-06-10
+BS0423,Market Road,North,1181,1325,yes,yes,yes,no,no,2025-03-13
+BS0424,Meadow Hill East,Riverside,11139,444,no,no,yes,yes,no,2025-05-17
+BS0425,Church Lane South,Harbour,3902,5133,yes,yes,no,no,yes,2025-09-15
+BS0426,Chapel Way,Old Town,952,7764,no,no,yes,yes,yes,2025-06-18
+BS0427,School Street East,Eastfield,599,6936,yes,yes,yes,no,yes,2025-03-21
+BS0428,Canal Avenue West,Westgate,6164,3752,yes,yes,yes,yes,yes,2025-06-04
+BS0429,Church Street West,Riverside,11884,4283,yes,yes,yes,no,yes,2025-08-13
+BS0430,School Street South,Eastfield,194,7737,yes,yes,yes,no,no,2025-07-23
+BS0431,Market Road West,Riverside,631,5514,yes,yes,yes,yes,yes,2025-03-30
+BS0432,Church Hill North,Riverside,5788,7269,no,no,yes,yes,yes,2025-05-31
+BS0433,Bridge Road South,North,8671,747,no,no,yes,yes,yes,2025-04-05
+BS0434,Chapel Avenue North,Harbour,10615,4546,yes,yes,no,yes,yes,2025-03-27
+BS0435,Canal Way West,North,2719,4539,yes,yes,yes,no,yes,2025-09-12
+BS0436,Quarry Hill,Hillcrest,10215,8341,no,no,no,yes,no,2025-05-15
+BS0437,Mill Road West,Old Town,8961,7603,yes,yes,yes,no,no,2025-07-01
+BS0438,Station Lane,Riverside,5301,7077,no,no,yes,yes,no,2025-09-10
+BS0439,Church Hill East,Riverside,10604,7438,yes,yes,yes,no,no,2025-05-04
+BS0440,Station Street South,Hillcrest,9995,3863,yes,yes,yes,no,yes,2025-03-29
+BS0441,Meadow Avenue East,Hillcrest,4271,7556,no,yes,yes,no,no,2025-09-08
+BS0442,Mill Way North,Old Town,10481,1052,yes,yes,no,no,yes,2025-05-23
+BS0443,Market Avenue East,Westgate,8483,1476,no,no,yes,no,no,2025-09-04
+BS0444,Garden Street East,Westgate,10714,6239,no,no,yes,no,no,2025-08-22
+BS0445,Station Hill South,Old Town,11597,1031,no,no,yes,no,no,2025-09-06
+BS0446,Canal Hill,Harbour,8698,1900,yes,yes,yes,no,no,2025-03-13
+BS0447,Market Lane South,Harbour,10374,704,yes,yes,yes,no,yes,2025-06-15
+BS0448,Willow Lane,Old Town,4969,1823,no,no,yes,yes,no,2025-08-01
+BS0449,Station Street South,North,11862,3192,no,no,no,yes,no,2025-04-25
+BS0450,Chapel Hill,Harbour,6082,7631,yes,yes,yes,no,no,2025-08-28
+BS0451,Market Street East,Riverside,2021,7968,yes,yes,yes,no,no,2025-06-01
+BS0452,Willow Lane,Old Town,9310,1719,no,no,yes,no,no,2025-03-22
+BS0453,Park Avenue East,Harbour,7431,8965,yes,yes,yes,no,no,2025-08-27
+BS0454,Mill Avenue North,Eastfield,691,1441,yes,yes,yes,yes,no,2025-05-02
+BS0455,Church Lane North,Old Town,10954,2199,no,no,yes,yes,no,2025-06-11
+BS0456,Garden Avenue North,Old Town,3381,3070,no,no,yes,no,no,2025-05-19
+BS0457,Meadow Hill North,Hillcrest,9585,4169,yes,yes,yes,no,no,2025-06-30
+BS0458,Garden Street,Harbour,1158,6042,yes,yes,yes,no,yes,2025-04-06
+BS0459,Meadow Hill East,Old Town,883,7565,yes,yes,yes,no,yes,2025-08-15
+BS0460,Bridge Hill East,Eastfield,1144,3830,yes,yes,no,no,no,2025-08-31
+BS0461,Bridge Lane,Westgate,4022,4918,yes,yes,yes,yes,no,2025-03-05
+BS0462,Canal Avenue South,Eastfield,10224,5784,yes,yes,yes,no,no,2025-08-28
+BS0463,Mill Hill South,Westgate,1915,1099,no,no,yes,no,no,2025-06-19
+BS0464,Quarry Hill East,Old Town,6058,6286,no,no,yes,yes,no,2025-04-19
+BS0465,Canal Lane East,Westgate,8339,6802,no,no,yes,yes,no,2025-05-01
+BS0466,Willow Avenue East,Hillcrest,5652,3878,yes,yes,yes,yes,no,2025-09-03
+BS0467,Meadow Road South,North,1303,3368,no,no,yes,no,yes,2025-07-25
+BS0468,Church Street,Harbour,9374,4422,yes,yes,no,yes,yes,2025-09-15
+BS0469,Garden Road East,North,1389,1060,yes,yes,yes,yes,no,2025-05-03
+BS0470,Mill Way East,North,2418,5293,yes,yes,yes,yes,no,2025-08-17
+BS0471,Willow Road East,Old Town,4268,7635,no,no,no,no,yes,2025-06-01
+BS0472,Park Lane North,Hillcrest,544,5692,yes,yes,no,yes,yes,2025-09-08
+BS0473,Park Street East,Harbour,7800,1559,yes,yes,no,yes,yes,2025-08-03
+BS0474,Bridge Avenue North,Harbour,10788,4323,yes,yes,no,no,no,2025-03-29
+BS0475,Willow Lane West,Harbour,6158,654,no,no,yes,no,yes,2025-04-04
+BS0476,Church Avenue East,Riverside,6848,8530,no,no,yes,no,yes,2025-05-17
+BS0477,Ash Road East,Westgate,10852,4737,no,yes,yes,no,yes,2025-06-30
+BS0478,Willow Street South,Westgate,9250,3478,no,no,yes,no,no,2025-04-08
+BS0479,Canal Road South,Hillcrest,2173,2591,yes,yes,yes,yes,no,2025-08-14
+BS0480,Forge Hill,Eastfield,8619,452,no,no,yes,no,no,2025-03-09
+BS0481,Park Lane West,Hillcrest,1773,569,no,no,yes,yes,no,2025-08-22
+BS0482,Orchard Hill North,Hillcrest,6831,3881,no,yes,yes,yes,yes,2025-07-25
+BS0483,Bridge Hill South,Harbour,5568,4405,yes,yes,no,yes,yes,2025-03-21
+BS0484,Church Hill West,North,11309,896,no,no,yes,no,yes,2025-05-30
+BS0485,Canal Road West,North,717,8803,no,yes,no,no,no,2025-07-06
+BS0486,Market Street West,Old Town,5001,3221,yes,yes,yes,no,yes,2025-05-02
+BS0487,Park Avenue East,Old Town,6920,4912,no,no,yes,no,no,2025-04-03
+BS0488,Garden Avenue North,Hillcrest,3293,35,yes,yes,yes,no,no,2025-06-15
+BS0489,Ash Road North,Hillcrest,9281,2024,yes,yes,yes,no,yes,2025-07-23
+BS0490,School Way East,Hillcrest,11815,8648,yes,yes,no,yes,no,2025-05-11
+BS0491,Church Hill East,Eastfield,11037,8820,yes,yes,no,no,yes,2025-04-17
+BS0492,School Street West,Westgate,6134,3537,yes,yes,yes,yes,yes,2025-04-03
+BS0493,Forge Road North,Eastfield,11107,5786,no,no,yes,no,yes,2025-08-29
+BS0494,Market Lane North,Westgate,10613,989,yes,yes,no,no,no,2025-06-27
+BS0495,Station Hill East,Riverside,3479,7631,no,no,yes,yes,no,2025-09-14
+BS0496,Garden Avenue South,Westgate,3066,64,yes,yes,yes,yes,no,2025-05-10
+BS0497,Station Avenue South,Westgate,8291,7021,no,no,no,no,no,2025-09-07
+BS0498,Garden Road North,Eastfield,8511,6645,yes,yes,yes,yes,yes,2025-03-30
+BS0499,Market Road,Westgate,6119,2702,yes,yes,yes,yes,no,2025-09-07
+BS0500,School Road North,Eastfield,5124,8330,no,yes,no,no,no,2025-05-11
+BS0501,Willow Way East,North,10137,1081,no,no,yes,no,yes,2025-03-08
+BS0502,Mill Hill North,Westgate,8613,7027,no,yes,no,yes,no,2025-05-14
+BS0503,Willow Street West,Eastfield,3612,784,no,no,yes,yes,no,2025-05-29
+BS0504,Canal Hill South,Eastfield,7755,7901,no,yes,no,no,no,2025-03-19
+BS0505,School Street,North,9730,3750,yes,yes,no,yes,no,2025-04-29
+BS0506,Station Lane North,Harbour,10365,3799,no,no,no,yes,yes,2025-09-01
+BS0507,Market Lane South,Hillcrest,10807,6073,yes,yes,no,no,no,2025-04-27
+BS0508,Chapel Avenue North,Harbour,8378,7661,yes,yes,yes,no,no,2025-08-21
+BS0509,Chapel Lane South,North,2082,6146,yes,yes,yes,no,no,2025-06-18
+BS0510,Canal Lane South,Harbour,5721,1195,yes,yes,no,no,no,2025-06-01
+BS0511,Market Road South,Westgate,10121,6764,no,no,yes,yes,no,2025-04-20
+BS0512,Chapel Road South,Riverside,10490,3597,yes,yes,no,yes,yes,2025-05-27
+BS0513,Market Avenue North,Eastfield,7613,3271,yes,yes,no,yes,yes,2025-05-27
+BS0514,Bridge Hill,Hillcrest,9556,1674,no,no,yes,yes,no,2025-03-14
+BS0515,Station Hill South,Harbour,842,1048,no,no,yes,no,no,2025-03-09
+BS0516,Market Lane,Old Town,7234,5180,yes,yes,yes,yes,no,2025-07-12
+BS0517,Willow Road West,Harbour,994,5075,yes,yes,no,no,no,2025-08-05
+BS0518,Chapel Avenue South,North,602,6621,yes,yes,yes,no,yes,2025-09-08
+BS0519,Mill Way East,Riverside,8550,5652,yes,yes,yes,no,no,2025-03-30
+BS0520,Park Hill,Riverside,7025,2041,no,yes,yes,yes,yes,2025-03-09
+BS0521,Mill Avenue East,Harbour,11398,2239,yes,yes,yes,yes,no,2025-07-20
+BS0522,Willow Road East,Harbour,3916,5370,yes,yes,yes,yes,no,2025-08-24
+BS0523,Mill Street North,Hillcrest,6751,7663,no,no,no,no,no,2025-05-24
+BS0524,Forge Lane,North,7023,8271,yes,yes,no,no,no,2025-08-28
+BS0525,Canal Street South,North,5186,3676,no,no,yes,yes,no,2025-05-22
+BS0526,Mill Avenue,Westgate,5832,4480,yes,yes,yes,yes,no,2025-04-09
+BS0527,Garden Street East,Westgate,4678,4711,yes,yes,yes,yes,no,2025-08-22
+BS0528,Orchard Street East,North,1193,7874,yes,yes,no,yes,no,2025-06-05
+BS0529,Ash Avenue,Eastfield,6692,3830,yes,yes,yes,yes,yes,2025-06-14
+BS0530,Quarry Street North,Harbour,7090,4714,yes,yes,yes,no,no,2025-04-24
+BS0531,Orchard Lane East,Westgate,6720,2111,no,no,yes,no,no,2025-06-05
+BS0532,Garden Street South,Harbour,3175,588,yes,yes,yes,no,no,2025-07-27
+BS0533,Chapel Way West,Harbour,6593,3717,no,no,no,no,no,2025-07-30
+BS0534,Station Avenue North,Old Town,8781,7726,no,no,no,yes,no,2025-06-05
+BS0535,Church Hill,Westgate,10858,7988,yes,yes,yes,no,no,2025-06-17
+BS0536,Forge Hill South,Westgate,7295,4953,yes,yes,no,no,yes,2025-05-18
+BS0537,School Lane East,North,9915,6785,no,no,yes,no,yes,2025-09-11
+BS0538,School Street East,Eastfield,4490,5415,yes,yes,yes,yes,yes,2025-05-26
+BS0539,Meadow Way South,Hillcrest,2402,473,yes,yes,yes,yes,no,2025-06-06
+BS0540,Bridge Street North,Old Town,11499,5881,yes,yes,yes,no,yes,2025-07-20
+BS0541,Garden Road South,Harbour,7279,3614,yes,yes,yes,yes,no,2025-06-25
+BS0542,Church Lane West,Westgate,6477,2726,yes,yes,yes,no,no,2025-04-27
+BS0543,Mill Street South,North,8199,8160,no,no,no,no,yes,2025-09-14
+BS0544,Forge Way South,North,9487,6155,no,yes,yes,yes,no,2025-06-17
+BS0545,Canal Road West,Westgate,11869,5659,yes,yes,yes,no,yes,2025-05-30
+BS0546,Bridge Avenue North,Westgate,11910,8782,no,no,yes,yes,no,2025-04-26
+BS0547,Meadow Hill South,Eastfield,3763,5163,yes,yes,no,yes,no,2025-06-05
+BS0548,Ash Avenue East,Harbour,2388,3618,yes,yes,yes,yes,no,2025-04-06
+BS0549,School Way,Old Town,5475,8853,yes,yes,yes,no,yes,2025-09-03
+BS0550,Orchard Way West,Westgate,11585,4382,yes,yes,yes,yes,no,2025-08-29
+BS0551,School Street West,Westgate,9888,5039,yes,yes,no,yes,yes,2025-08-30
+BS0552,Station Avenue South,North,6002,5280,yes,yes,yes,no,no,2025-07-24
+BS0553,Willow Hill West,Westgate,3560,5006,no,no,yes,no,yes,2025-06-04
+BS0554,Quarry Lane North,Westgate,896,8882,yes,yes,yes,no,no,2025-06-05
+BS0555,Park Street,Harbour,4602,13,no,no,no,no,no,2025-05-04
+BS0556,Church Lane East,North,13,8159,no,no,yes,no,no,2025-07-26
+BS0557,Mill Lane East,Hillcrest,5640,5936,yes,yes,yes,yes,no,2025-09-01
+BS0558,Park Hill North,Westgate,7389,4387,yes,yes,yes,no,no,2025-09-06
+BS0559,Market Avenue South,Westgate,8321,4852,yes,yes,yes,yes,no,2025-07-05
+BS0560,Church Road,Harbour,1878,4586,no,no,yes,yes,no,2025-05-02
+BS0561,Church Street South,Old Town,5936,3711,yes,yes,yes,yes,no,2025-03-08
+BS0562,Bridge Street South,North,11370,3709,yes,yes,yes,no,yes,2025-08-06
+BS0563,Bridge Hill South,Westgate,9649,996,no,yes,yes,yes,no,2025-04-21
+BS0564,Market Street West,Riverside,8428,7669,no,no,yes,no,no,2025-08-02
+BS0565,Quarry Street South,Westgate,4472,3157,no,no,yes,yes,yes,2025-04-16
+BS0566,Station Hill East,Eastfield,3166,3097,no,no,no,no,yes,2025-06-09
+BS0567,Mill Lane North,Old Town,6500,6958,yes,yes,yes,yes,yes,2025-08-21
+BS0568,Mill Avenue South,Westgate,9004,1271,no,no,yes,no,no,2025-07-11
+BS0569,Orchard Lane North,North,9486,8526,yes,yes,yes,no,no,2025-05-14
+BS0570,Orchard Way East,North,7358,3746,yes,yes,yes,yes,no,2025-08-06
+BS0571,Station Avenue North,North,4339,8990,yes,yes,yes,yes,yes,2025-05-08
+BS0572,Park Street West,Hillcrest,6083,8986,no,no,yes,no,no,2025-09-06
+BS0573,Garden Lane West,Hillcrest,2489,7674,yes,yes,no,no,no,2025-09-10
+BS0574,Forge Hill,Westgate,3429,4956,no,yes,yes,no,no,2025-05-24
+BS0575,Orchard Way West,Eastfield,6303,1434,yes,yes,yes,no,no,2025-06-17
+BS0576,Church Hill South,Old Town,4689,3944,yes,yes,no,yes,no,2025-03-26
+BS0577,Market Avenue,Old Town,1996,3234,no,no,no,no,no,2025-08-17
+BS0578,Station Street West,Hillcrest,4452,1743,no,no,yes,no,no,2025-07-05
+BS0579,School Road South,Eastfield,8799,580,no,no,yes,yes,no,2025-05-01
+BS0580,Chapel Lane South,Riverside,6751,7272,yes,yes,yes,yes,no,2025-03-26
+BS0581,Market Road North,North,1102,2830,no,no,yes,no,no,2025-03-20
+BS0582,Quarry Lane East,Harbour,8975,8729,yes,yes,yes,yes,no,2025-06-15
+BS0583,Forge Hill,Old Town,9057,2574,yes,yes,yes,no,yes,2025-07-01
+BS0584,Market Road East,Harbour,11425,2646,yes,yes,no,yes,yes,2025-04-12
+BS0585,Garden Avenue South,Riverside,5674,2848,no,no,yes,yes,no,2025-06-25
+BS0586,Forge Hill South,Harbour,5883,3519,yes,yes,yes,no,yes,2025-08-21
+BS0587,Church Road North,Harbour,8677,3444,yes,yes,yes,no,no,2025-04-12
+BS0588,Ash Hill North,Old Town,10469,1654,no,no,yes,no,no,2025-04-16
+BS0589,Chapel Way North,Old Town,5678,1969,yes,yes,yes,no,no,2025-04-19
+BS0590,Quarry Avenue North,Hillcrest,7963,7129,yes,yes,no,no,no,2025-04-06
+BS0591,Garden Hill,Old Town,510,3665,no,no,yes,no,yes,2025-08-23
+BS0592,Ash Avenue South,Hillcrest,10425,6217,no,no,yes,no,no,2025-05-03
+BS0593,Willow Hill East,Harbour,5095,1877,yes,yes,yes,no,yes,2025-04-30
+BS0594,Orchard Street East,Eastfield,7553,8412,no,no,yes,no,no,2025-07-24
+BS0595,Church Road North,Hillcrest,6854,6261,no,no,yes,no,no,2025-08-13
+BS0596,Bridge Avenue East,Eastfield,6325,6928,yes,yes,yes,yes,no,2025-03-28
+BS0597,Bridge Hill East,Eastfield,9527,3305,yes,yes,yes,no,no,2025-05-26
+BS0598,Orchard Road North,Hillcrest,5265,8072,yes,yes,yes,no,no,2025-06-26
+BS0599,Bridge Road East,Westgate,2607,2495,no,no,yes,yes,yes,2025-08-07
+BS0600,Quarry Street West,Old Town,1938,5066,no,yes,yes,no,no,2025-04-18
+BS0601,Market Way West,Old Town,4013,3102,yes,yes,yes,no,no,2025-06-06
+BS0602,Park Road,Old Town,3512,5265,no,no,yes,yes,no,2025-03-07
+BS0603,Bridge Hill,Hillcrest,8640,7097,yes,yes,no,yes,yes,2025-06-03
+BS0604,Bridge Road East,Eastfield,5844,1953,yes,yes,yes,yes,no,2025-07-06
+BS0605,Quarry Avenue West,Old Town,6748,4915,yes,yes,yes,yes,no,2025-03-10
+BS0606,Garden Road South,Eastfield,5776,3094,no,no,no,yes,yes,2025-03-12
+BS0607,Quarry Street West,Old Town,2785,1518,no,yes,yes,no,no,2025-08-13
+BS0608,Meadow Road North,Old Town,10790,4107,no,no,no,no,no,2025-09-14
+BS0609,Ash Way North,Old Town,8859,4209,no,no,yes,no,no,2025-05-31
+BS0610,Chapel Street East,Harbour,8023,2975,yes,yes,yes,no,no,2025-04-09
+BS0611,Station Street North,Westgate,10429,4738,no,yes,yes,yes,yes,2025-03-28
+BS0612,Mill Hill East,Riverside,6027,2440,yes,yes,yes,no,no,2025-04-08
+BS0613,Ash Lane East,Riverside,5631,8213,no,no,no,yes,no,2025-06-17
+BS0614,School Street East,North,1055,1298,yes,yes,no,no,yes,2025-04-02
+BS0615,Market Avenue South,Hillcrest,1337,2352,yes,yes,yes,no,no,2025-04-14
+BS0616,Forge Hill,Old Town,10457,5587,no,no,yes,no,yes,2025-04-26
+BS0617,Garden Street South,Old Town,426,5133,yes,yes,yes,no,no,2025-06-12
+BS0618,Station Street South,Hillcrest,1936,7528,no,no,yes,yes,yes,2025-07-18
+BS0619,Quarry Way South,Westgate,5843,2187,no,no,yes,yes,no,2025-04-07
+BS0620,Orchard Street,Eastfield,6399,7946,yes,yes,yes,no,no,2025-07-17
+BS0621,Orchard Avenue,Harbour,9671,1713,yes,yes,no,yes,no,2025-06-03
+BS0622,Station Road West,North,5992,7516,no,yes,yes,yes,yes,2025-06-29
+BS0623,Willow Way North,Hillcrest,623,2380,yes,yes,no,no,no,2025-08-16
+BS0624,Mill Street West,Old Town,2501,2683,yes,yes,yes,yes,no,2025-07-15
+BS0625,Quarry Hill North,Riverside,3420,2146,yes,yes,no,no,yes,2025-07-10
+BS0626,Ash Lane West,Eastfield,4988,2265,yes,yes,yes,yes,yes,2025-03-12
+BS0627,Mill Way East,Eastfield,5239,1229,yes,yes,no,yes,no,2025-05-01
+BS0628,Chapel Road East,Eastfield,8839,4764,yes,yes,no,yes,no,2025-08-04
+BS0629,Canal Street West,Old Town,7815,7180,no,yes,no,yes,yes,2025-07-25
+BS0630,Bridge Lane,Eastfield,6289,8176,yes,yes,yes,yes,yes,2025-09-01
+BS0631,Forge Hill South,Harbour,8116,2221,no,no,yes,yes,no,2025-05-31
+BS0632,Ash Hill,Eastfield,4551,1546,no,no,yes,no,yes,2025-05-11
+BS0633,Park Street West,Riverside,7771,8336,yes,yes,yes,yes,no,2025-05-10
+BS0634,School Road West,North,2256,101,yes,yes,yes,yes,no,2025-03-13
+BS0635,Willow Hill East,Old Town,561,3865,yes,yes,yes,yes,no,2025-08-04
+BS0636,School Lane East,Hillcrest,11437,7553,no,no,no,yes,yes,2025-08-07
+BS0637,Ash Street East,Harbour,7946,5484,yes,yes,yes,no,no,2025-07-19
+BS0638,Bridge Lane,North,3849,1815,yes,yes,yes,no,no,2025-08-28
+BS0639,Garden Avenue,Westgate,10768,642,no,no,yes,no,yes,2025-06-20
+BS0640,Park Street East,Harbour,1477,3680,no,no,no,yes,no,2025-07-09
+BS0641,Church Hill South,Old Town,10064,3532,no,no,no,yes,yes,2025-08-28
+BS0642,Quarry Road South,Riverside,2468,1961,no,no,yes,no,no,2025-09-13
+BS0643,School Lane West,Hillcrest,5224,682,yes,yes,yes,yes,yes,2025-04-14
+BS0644,Ash Way South,Hillcrest,6979,8884,no,no,yes,yes,no,2025-06-03
+BS0645,Forge Way,North,4046,307,yes,yes,no,yes,yes,2025-03-06
+BS0646,Garden Lane East,Hillcrest,9582,1328,yes,yes,yes,no,no,2025-04-20
+BS0647,Mill Way East,Eastfield,6868,925,no,no,yes,yes,no,2025-08-13
+BS0648,Church Avenue,Old Town,4671,7484,yes,yes,yes,no,no,2025-03-09
+BS0649,Willow Way South,North,264,2200,no,no,no,no,yes,2025-03-03
+BS0650,Market Lane East,Hillcrest,10869,5672,yes,yes,yes,yes,no,2025-06-09
+BS0651,Chapel Lane West,Harbour,10553,746,no,no,yes,yes,no,2025-08-18
+BS0652,School Hill South,North,4262,4484,yes,yes,yes,no,no,2025-03-22
+BS0653,Forge Street North,Harbour,3934,6,yes,yes,yes,yes,no,2025-05-16
+BS0654,Garden Road West,Westgate,6884,94,yes,yes,yes,no,yes,2025-03-28
+BS0655,Ash Hill East,North,7094,4628,no,no,yes,yes,no,2025-08-15
+BS0656,Garden Lane West,Riverside,10671,2885,yes,yes,yes,no,yes,2025-06-22
+BS0657,Mill Avenue South,Riverside,5262,4889,no,no,yes,yes,no,2025-08-13
+BS0658,Station Avenue East,Westgate,5738,7446,yes,yes,yes,yes,yes,2025-05-14
+BS0659,Market Way East,Old Town,6551,7407,yes,yes,no,yes,no,2025-03-13
+BS0660,Garden Avenue,Riverside,10757,579,yes,yes,yes,no,no,2025-04-07
+BS0661,Orchard Hill North,Harbour,1045,3267,yes,yes,yes,yes,yes,2025-07-27
+BS0662,Bridge Hill South,Harbour,10898,6961,yes,yes,no,yes,yes,2025-07-21
+BS0663,Canal Way North,Harbour,1667,6186,yes,yes,yes,no,no,2025-07-25
+BS0664,Meadow Street South,Harbour,10708,6764,yes,yes,yes,no,yes,2025-05-13
+BS0665,Quarry Way West,Hillcrest,10247,7835,no,no,yes,no,no,2025-08-05
+BS0666,Park Avenue West,Old Town,10784,3280,no,no,no,yes,no,2025-05-11
+BS0667,Orchard Street East,Eastfield,7763,5127,yes,yes,yes,no,no,2025-07-23
+BS0668,Ash Hill North,Riverside,8362,6615,yes,yes,yes,no,yes,2025-05-07
+BS0669,Station Lane,North,416,7720,no,no,yes,no,no,2025-09-06
+BS0670,Mill Way West,North,6014,4859,yes,yes,yes,yes,yes,2025-03-31
+BS0671,Mill Street North,Riverside,9855,105,no,yes,yes,yes,no,2025-07-05
+BS0672,Quarry Hill South,Old Town,36,5798,no,no,no,no,no,2025-09-13
+BS0673,Forge Avenue West,North,11043,5924,yes,yes,yes,no,no,2025-05-06
+BS0674,Forge Lane South,Riverside,1952,5202,no,no,yes,yes,no,2025-07-31
+BS0675,Bridge Hill West,Harbour,704,2726,no,no,yes,yes,no,2025-08-02
+BS0676,Station Hill South,Eastfield,8928,7797,yes,yes,yes,yes,yes,2025-03-14
+BS0677,Church Way South,Riverside,6410,6083,no,no,yes,no,no,2025-04-03
+BS0678,School Way,North,6162,5946,yes,yes,yes,no,no,2025-03-28
+BS0679,Orchard Lane North,Harbour,9278,531,no,no,yes,no,no,2025-03-03
+BS0680,Market Road East,Harbour,10022,6192,yes,yes,no,yes,no,2025-04-01
+BS0681,School Hill South,Westgate,6588,299,no,no,yes,no,yes,2025-07-08
+BS0682,Quarry Avenue,Westgate,774,325,yes,yes,yes,yes,yes,2025-07-01
+BS0683,Mill Street West,Westgate,7507,6192,yes,yes,no,yes,yes,2025-06-08
+BS0684,Park Hill,Eastfield,7177,1892,no,no,no,yes,no,2025-07-27
+BS0685,Orchard Way North,Old Town,10994,8959,yes,yes,yes,no,no,2025-09-19
+BS0686,Canal Lane North,Old Town,1278,2264,yes,yes,yes,yes,yes,2025-04-14
+BS0687,Station Lane East,Eastfield,3348,7383,yes,yes,yes,no,yes,2025-08-17
+BS0688,Park Way East,Old Town,1197,4827,no,no,no,yes,no,2025-07-23
+BS0689,Market Avenue West,Harbour,9092,376,yes,yes,yes,yes,yes,2025-06-27
+BS0690,Willow Lane West,Eastfield,6777,5392,no,no,yes,no,no,2025-09-19
+BS0691,School Avenue South,Westgate,8628,5835,no,no,no,yes,no,2025-08-22
+BS0692,Ash Lane West,Hillcrest,1759,4784,yes,yes,yes,no,no,2025-08-21
+BS0693,Orchard Avenue North,Riverside,7887,5939,no,no,yes,yes,no,2025-05-30
+BS0694,Orchard Avenue South,Riverside,6829,743,no,yes,yes,no,no,2025-03-24
+BS0695,Park Way,North,9972,5571,no,no,yes,yes,yes,2025-08-06
+BS0696,Garden Hill West,Harbour,4183,8084,no,no,no,no,no,2025-04-05
+BS0697,Park Way East,Eastfield,2185,7417,yes,yes,yes,no,no,2025-08-16
+BS0698,Willow Lane West,North,1766,1794,yes,yes,yes,no,no,2025-08-31
+BS0699,Garden Street East,Westgate,2505,6930,yes,yes,yes,no,no,2025-05-05
+BS0700,Market Road West,Harbour,3357,5902,no,no,no,no,no,2025-09-12
+BS0701,Mill Lane North,Hillcrest,8658,6895,no,yes,yes,no,no,2025-04-01
+BS0702,Chapel Road East,North,5254,2318,yes,yes,yes,yes,no,2025-04-29
+BS0703,Chapel Lane,North,5281,6401,yes,yes,yes,yes,no,2025-03-26
+BS0704,Church Lane North,Old Town,3653,382,no,no,yes,yes,no,2025-08-27
+BS0705,Ash Way,Harbour,7612,8202,yes,yes,yes,yes,no,2025-06-13
+BS0706,Meadow Hill South,Riverside,9207,7173,no,no,yes,yes,no,2025-04-27
+BS0707,Orchard Hill West,Old Town,2878,6594,yes,yes,yes,yes,no,2025-05-30
+BS0708,Forge Street North,Harbour,6805,4328,yes,yes,yes,no,no,2025-06-08
+BS0709,Garden Street East,Eastfield,2440,6704,yes,yes,yes,no,no,2025-04-22
+BS0710,Church Avenue East,Hillcrest,9355,8974,no,no,yes,yes,yes,2025-06-22
+BS0711,Ash Hill West,Eastfield,6549,6399,yes,yes,yes,no,no,2025-06-19
+BS0712,Willow Lane East,Harbour,10670,1051,no,yes,yes,yes,yes,2025-05-03
+BS0713,Forge Avenue South,North,10299,4590,yes,yes,yes,no,yes,2025-07-06
+BS0714,Chapel Road East,North,4264,7315,yes,yes,yes,no,no,2025-09-12
+BS0715,Chapel Lane,Harbour,8931,2355,no,yes,yes,no,no,2025-05-29
+BS0716,Forge Street West,Westgate,7649,2358,no,no,yes,yes,no,2025-03-12
+BS0717,Garden Hill West,Harbour,8021,7483,yes,yes,yes,no,yes,2025-07-03
+BS0718,Forge Street North,Riverside,1512,5915,yes,yes,no,no,no,2025-08-23
+BS0719,School Way South,Riverside,4183,5875,no,no,yes,no,no,2025-05-01
+BS0720,Quarry Street North,Westgate,3595,1332,no,no,yes,no,yes,2025-03-08
+BS0721,Station Hill,Westgate,8559,2869,yes,yes,yes,yes,yes,2025-08-06
+BS0722,Orchard Street,Harbour,7041,7289,yes,yes,yes,no,no,2025-06-07
+BS0723,Quarry Hill South,Riverside,8132,4458,yes,yes,yes,yes,no,2025-07-02
+BS0724,Park Street,Hillcrest,10121,5896,yes,yes,yes,no,no,2025-05-09
+BS0725,Orchard Road West,Old Town,7182,6330,yes,yes,yes,yes,no,2025-04-23
+BS0726,Bridge Way South,North,11964,1078,no,no,no,no,no,2025-09-14
+BS0727,Meadow Avenue North,Hillcrest,3108,5925,yes,yes,yes,yes,no,2025-08-28
+BS0728,Park Street South,Old Town,2328,954,yes,yes,no,yes,no,2025-03-30
+BS0729,Mill Street West,Old Town,5629,3012,no,no,yes,no,yes,2025-04-22
+BS0730,Mill Avenue East,Harbour,1424,8414,yes,yes,yes,yes,no,2025-04-15
+BS0731,Meadow Avenue East,Eastfield,4321,6563,no,no,yes,yes,yes,2025-03-30
+BS0732,Garden Lane,Eastfield,1951,2423,no,no,yes,no,no,2025-09-04
+BS0733,Station Street West,Eastfield,4783,3655,yes,yes,yes,no,no,2025-08-09
+BS0734,Chapel Lane West,Westgate,5528,4175,yes,yes,yes,no,no,2025-03-16
+BS0735,Park Road West,Old Town,6730,6366,no,no,yes,no,no,2025-07-22
+BS0736,School Hill South,Eastfield,10921,8049,no,no,no,yes,yes,2025-08-25
+BS0737,Canal Avenue South,Westgate,6419,789,no,no,yes,no,yes,2025-07-08
+BS0738,Canal Hill West,Riverside,11139,2012,no,no,yes,yes,no,2025-07-18
+BS0739,Ash Street,North,10132,5271,no,no,yes,no,yes,2025-09-14
+BS0740,Garden Street East,Riverside,7249,4498,yes,yes,yes,no,no,2025-03-25
+BS0741,Church Road South,Hillcrest,10409,2127,yes,yes,yes,no,yes,2025-08-09
+BS0742,School Lane North,Westgate,2725,1924,no,no,no,yes,no,2025-03-19
+BS0743,Market Street East,Hillcrest,6969,3780,yes,yes,no,no,no,2025-09-17
+BS0744,Chapel Avenue,Hillcrest,8448,5077,yes,yes,yes,yes,no,2025-06-24
+BS0745,Bridge Lane,Old Town,10444,7550,yes,yes,no,yes,no,2025-08-11
+BS0746,Station Lane,Riverside,6836,755,yes,yes,yes,no,no,2025-06-25
+BS0747,Mill Way,Eastfield,3337,3639,no,yes,yes,yes,no,2025-07-20
+BS0748,Meadow Lane South,Westgate,10203,6887,no,no,yes,yes,no,2025-08-06
+BS0749,Church Way South,North,4734,2797,no,no,no,yes,no,2025-05-04
+BS0750,Canal Way North,Old Town,7423,7570,no,no,yes,yes,no,2025-09-16
+BS0751,Quarry Avenue North,Harbour,3998,1720,yes,yes,yes,no,yes,2025-09-18
+BS0752,Chapel Avenue East,Riverside,7577,1536,no,no,yes,yes,no,2025-03-28
+BS0753,Ash Road West,North,2568,5339,yes,yes,yes,no,no,2025-09-17
+BS0754,School Street East,Harbour,3949,6865,yes,yes,yes,no,no,2025-03-29
+BS0755,Station Way,Riverside,7578,1064,no,yes,yes,no,yes,2025-05-18
+BS0756,Mill Lane,Harbour,1991,8485,yes,yes,no,no,no,2025-05-02
+BS0757,Canal Avenue West,Harbour,4122,3041,no,no,yes,yes,yes,2025-06-27
+BS0758,Chapel Hill,Hillcrest,3192,4855,no,yes,yes,yes,no,2025-06-26
+BS0759,Park Road North,Old Town,8134,3035,no,no,yes,no,yes,2025-09-15
+BS0760,Forge Avenue,Hillcrest,4587,4811,no,no,yes,yes,no,2025-08-21
+BS0761,Orchard Avenue West,Eastfield,606,8253,yes,yes,yes,no,no,2025-05-26
+BS0762,Garden Road West,Eastfield,1744,2302,no,no,yes,yes,yes,2025-05-17
+BS0763,Meadow Street West,Harbour,10113,912,yes,yes,yes,no,no,2025-08-05
+BS0764,Garden Lane East,Hillcrest,291,4699,no,no,yes,yes,no,2025-04-04
+BS0765,Garden Lane North,Westgate,4637,3341,yes,yes,yes,no,no,2025-06-09
+BS0766,Garden Way,Eastfield,8254,5668,yes,yes,no,yes,yes,2025-03-22
+BS0767,Meadow Way South,Riverside,5767,2309,yes,yes,no,no,yes,2025-03-29
+BS0768,Forge Avenue East,Old Town,2465,8336,yes,yes,yes,no,no,2025-03-20
+BS0769,Ash Street South,Hillcrest,7630,3597,no,yes,no,no,no,2025-05-23
+BS0770,Quarry Avenue,North,6113,7064,no,yes,yes,no,no,2025-07-30
+BS0771,Church Hill East,Westgate,11233,7479,no,no,yes,yes,no,2025-03-15
+BS0772,Meadow Road,Eastfield,4176,6386,no,no,no,yes,no,2025-07-26
+BS0773,Station Lane,Westgate,5058,2370,no,no,yes,yes,no,2025-08-07
+BS0774,Orchard Avenue East,Eastfield,3381,4749,no,no,yes,yes,no,2025-05-30
+BS0775,Station Hill South,Eastfield,5004,6291,yes,yes,yes,no,no,2025-03-12
+BS0776,Forge Hill North,Riverside,7930,847,no,no,yes,yes,no,2025-06-20
+BS0777,Market Hill,Old Town,4593,1019,no,yes,yes,yes,yes,2025-07-26
+BS0778,School Hill South,Westgate,3651,5172,yes,yes,no,no,no,2025-09-05
+BS0779,Quarry Way West,Westgate,8593,4403,yes,yes,yes,yes,no,2025-05-13
+BS0780,Garden Lane South,Harbour,7593,334,no,no,yes,no,yes,2025-08-22
+BS0781,Park Way South,Westgate,1681,8745,no,no,no,no,no,2025-09-17
+BS0782,Mill Lane East,Westgate,1855,2563,no,no,no,yes,no,2025-08-05
+BS0783,Canal Avenue,North,5486,7317,no,yes,yes,yes,yes,2025-08-11
+BS0784,Chapel Hill East,Old Town,11105,7234,no,yes,yes,yes,no,2025-06-12
+BS0785,Meadow Way South,Harbour,10981,659,yes,yes,yes,yes,no,2025-03-11
+BS0786,Church Street East,Riverside,5796,4901,no,no,yes,no,no,2025-09-14
+BS0787,Orchard Avenue North,Riverside,7083,6949,yes,yes,no,yes,yes,2025-07-22
+BS0788,Park Way North,North,6358,4111,no,no,yes,yes,yes,2025-09-11
+BS0789,Willow Hill,Riverside,10014,8085,yes,yes,yes,yes,no,2025-08-02
+BS0790,Willow Road,Eastfield,5789,3801,no,yes,no,yes,yes,2025-06-03
+BS0791,Meadow Street West,Old Town,8716,2598,yes,yes,no,no,yes,2025-03-17
+BS0792,Chapel Avenue,Westgate,7608,1424,yes,yes,yes,yes,no,2025-07-18
+BS0793,Church Avenue North,North,1124,4076,yes,yes,yes,yes,no,2025-04-25
+BS0794,Market Lane North,North,1050,177,yes,yes,no,no,no,2025-03-26
+BS0795,Garden Way North,Old Town,5555,4060,yes,yes,yes,yes,no,2025-05-05
+BS0796,Willow Road North,Harbour,4546,3058,no,no,yes,no,no,2025-06-14
+BS0797,Willow Road South,Harbour,8127,6511,no,no,yes,yes,yes,2025-08-29
+BS0798,Mill Street,Harbour,2375,7773,yes,yes,yes,yes,no,2025-05-19
+BS0799,School Hill,Eastfield,148,7858,no,yes,yes,yes,yes,2025-09-19
+BS0800,Willow Lane East,Westgate,2216,4501,no,no,yes,no,no,2025-06-20
+BS0801,Church Lane North,North,1794,5623,yes,yes,yes,yes,yes,2025-09-17
+BS0802,Mill Avenue West,Hillcrest,4126,6822,no,no,no,yes,no,2025-04-14
+BS0803,Orchard Way West,Old Town,6807,4940,no,no,yes,no,no,2025-03-07
+BS0804,Canal Hill West,Eastfield,4130,6568,no,no,yes,yes,no,2025-09-09
+BS0805,Ash Way South,Old Town,1417,7874,no,yes,yes,yes,no,2025-03-18
+BS0806,Market Avenue,Eastfield,893,755,yes,yes,yes,yes,yes,2025-05-16
+BS0807,Church Street,North,3595,6188,yes,yes,no,yes,no,2025-05-07
+BS0808,Station Lane West,Riverside,8491,2137,no,yes,yes,no,yes,2025-04-07
+BS0809,Willow Way North,Riverside,1077,8770,no,no,yes,no,no,2025-05-17
+BS0810,Forge Way East,Old Town,1712,6654,yes,yes,yes,yes,no,2025-07-25
+BS0811,Ash Hill North,Riverside,6542,1141,no,no,yes,yes,yes,2025-08-12
+BS0812,Canal Lane North,North,6620,3970,no,no,yes,yes,no,2025-06-16
+BS0813,Park Street West,Westgate,11440,873,yes,yes,yes,yes,yes,2025-05-24
+BS0814,Church Lane South,Westgate,8218,6511,yes,yes,yes,yes,yes,2025-05-03
+BS0815,Forge Lane West,North,9006,2816,yes,yes,no,yes,yes,2025-07-08
+BS0816,Forge Avenue South,Hillcrest,8264,3339,no,no,yes,no,no,2025-08-05
+BS0817,Park Way East,North,10381,3808,no,no,yes,yes,no,2025-07-22
+BS0818,Mill Hill East,Westgate,2902,7695,yes,yes,yes,no,no,2025-03-21
+BS0819,Quarry Lane East,Eastfield,8985,590,yes,yes,no,no,no,2025-05-16
+BS0820,Garden Road South,North,1337,2363,no,no,yes,yes,no,2025-05-28
+BS0821,Bridge Lane,Hillcrest,11837,2374,no,yes,yes,no,no,2025-07-24
+BS0822,Bridge Street West,North,1352,4049,yes,yes,no,no,no,2025-05-03
+BS0823,Forge Road East,Hillcrest,3226,7025,yes,yes,no,yes,yes,2025-09-12
+BS0824,Market Lane South,Westgate,8247,556,yes,yes,yes,yes,no,2025-07-18
+BS0825,Forge Lane North,Riverside,11022,3858,yes,yes,yes,no,yes,2025-06-28
+BS0826,Station Avenue West,Westgate,588,5387,no,yes,yes,no,no,2025-06-22
+BS0827,Park Hill East,Westgate,3688,3306,no,no,yes,no,no,2025-05-04
+BS0828,Market Lane North,Eastfield,1768,4139,no,no,no,no,no,2025-06-17
+BS0829,Park Way West,Eastfield,7228,3419,no,no,no,no,no,2025-07-23
+BS0830,Orchard Lane South,Eastfield,2461,3264,no,no,yes,no,no,2025-04-13
+BS0831,Meadow Street South,Westgate,1721,4707,no,no,yes,no,no,2025-09-01
+BS0832,Park Road South,Westgate,6183,449,no,no,yes,yes,yes,2025-09-05
+BS0833,Park Avenue West,Eastfield,10302,387,yes,yes,yes,no,yes,2025-05-30
+BS0834,Park Hill South,North,10888,3258,yes,yes,yes,no,yes,2025-09-18
+BS0835,Bridge Road,Harbour,6113,7957,yes,yes,yes,yes,no,2025-08-26
+BS0836,Chapel Road East,Riverside,8513,8041,no,no,yes,yes,no,2025-09-04
+BS0837,Mill Road East,Old Town,2470,1266,yes,yes,yes,no,yes,2025-05-27
+BS0838,Station Hill West,Eastfield,5595,5976,yes,yes,yes,yes,no,2025-09-19
+BS0839,Forge Hill North,Riverside,4598,6706,yes,yes,no,no,no,2025-04-17
+BS0840,Chapel Road North,Old Town,319,1593,no,no,yes,yes,no,2025-03-08
+BS0841,Canal Way,Old Town,11116,3089,yes,yes,yes,yes,yes,2025-03-29
+BS0842,Quarry Lane North,Old Town,9568,6396,no,yes,no,no,yes,2025-05-19
+BS0843,Market Way North,Old Town,4307,2677,no,no,no,yes,no,2025-04-12
+BS0844,Church Road,Old Town,6960,4165,no,no,yes,no,no,2025-04-15
+BS0845,Quarry Lane South,Riverside,9151,5505,yes,yes,yes,no,no,2025-08-04
+BS0846,Ash Lane West,Eastfield,7528,442,no,no,yes,no,yes,2025-06-08
+BS0847,Orchard Way South,Hillcrest,10144,7770,yes,yes,yes,yes,no,2025-05-27
+BS0848,Chapel Road South,North,3322,7376,yes,yes,yes,no,no,2025-08-08
+BS0849,Mill Lane North,Westgate,5674,4401,yes,yes,yes,no,yes,2025-06-21
+BS0850,Church Road West,Old Town,4405,1311,no,yes,yes,yes,no,2025-08-20
+BS0851,Willow Lane West,Hillcrest,4799,8350,yes,yes,yes,yes,no,2025-06-11
+BS0852,Forge Road,Old Town,1505,5257,yes,yes,yes,no,yes,2025-06-20
+BS0853,Garden Avenue East,Westgate,3685,3014,yes,yes,yes,no,yes,2025-06-30
+BS0854,Mill Road East,Hillcrest,7138,2608,yes,yes,yes,yes,no,2025-03-03
+BS0855,Park Road West,Hillcrest,8101,8551,yes,yes,yes,yes,yes,2025-05-26
+BS0856,Mill Avenue West,North,4116,4482,yes,yes,yes,no,no,2025-05-11
+BS0857,Forge Hill North,North,4986,8407,no,no,yes,no,yes,2025-06-27
+BS0858,Canal Road East,Old Town,10095,375,no,no,yes,no,no,2025-06-25
+BS0859,Chapel Avenue,Eastfield,10897,8387,yes,yes,no,yes,no,2025-03-24
+BS0860,Canal Way East,Eastfield,7737,3723,no,no,yes,yes,no,2025-06-10
+BS0861,Canal Street West,Harbour,10693,6823,no,no,yes,yes,no,2025-04-17
+BS0862,Market Road,Westgate,8832,679,no,no,yes,no,no,2025-05-11
+BS0863,Forge Way North,Harbour,5895,1957,no,no,yes,yes,no,2025-08-27
+BS0864,Ash Hill,Riverside,8422,62,yes,yes,yes,yes,yes,2025-05-30
+BS0865,Market Lane,Old Town,9264,893,yes,yes,no,yes,no,2025-03-03
+BS0866,Market Lane North,Riverside,5697,6883,yes,yes,yes,yes,no,2025-05-27
+BS0867,Orchard Lane East,North,5353,1649,no,no,no,yes,no,2025-04-29
+BS0868,Willow Hill,Old Town,11400,1030,yes,yes,yes,yes,no,2025-07-05
+BS0869,Orchard Hill East,North,2812,78,yes,yes,yes,no,no,2025-04-26
+BS0870,Station Way North,Harbour,3343,4658,no,no,no,no,no,2025-04-11
+BS0871,Quarry Avenue South,Eastfield,8231,5438,yes,yes,yes,no,yes,2025-07-15
+BS0872,Forge Hill,Eastfield,9010,8288,no,no,no,no,no,2025-06-12
+BS0873,Park Way South,Old Town,8390,1351,no,no,no,no,no,2025-08-07
+BS0874,Market Way East,Riverside,872,2678,yes,yes,yes,no,no,2025-04-11
+BS0875,Bridge Road,Old Town,11859,4787,yes,yes,yes,yes,yes,2025-09-10
+BS0876,Mill Hill,Old Town,9002,4195,yes,yes,yes,yes,no,2025-08-03
+BS0877,Forge Road West,Riverside,4967,8339,no,no,yes,yes,yes,2025-09-19
+BS0878,Bridge Way South,North,5942,6896,yes,yes,no,no,no,2025-03-29
+BS0879,Church Way West,Eastfield,4846,6234,yes,yes,no,yes,yes,2025-07-31
+BS0880,Forge Street East,Riverside,5628,6898,yes,yes,no,yes,yes,2025-07-11
+BS0881,Church Way West,North,10184,4238,yes,yes,yes,no,no,2025-08-19
+BS0882,Meadow Avenue North,Harbour,7273,5000,no,no,yes,yes,yes,2025-07-18
+BS0883,Church Road,Westgate,9186,143,yes,yes,no,no,no,2025-05-01
+BS0884,Ash Lane West,Old Town,10165,1511,yes,yes,no,yes,yes,2025-04-24
+BS0885,Bridge Street North,North,9173,8167,no,yes,yes,no,yes,2025-07-16
+BS0886,Bridge Avenue,Eastfield,2208,4788,yes,yes,yes,yes,no,2025-04-20
+BS0887,Station Hill,Hillcrest,5616,3590,no,no,yes,no,yes,2025-04-22
+BS0888,Market Way,Westgate,6215,7139,yes,yes,yes,no,no,2025-03-23
+BS0889,Quarry Street West,Riverside,1842,6791,no,no,yes,yes,no,2025-04-29
+BS0890,Ash Lane,Harbour,8709,5824,yes,yes,yes,no,no,2025-03-18
+BS0891,Canal Lane West,Westgate,892,8744,no,no,yes,no,yes,2025-04-25
+BS0892,Church Avenue East,North,10423,4341,no,no,yes,no,yes,2025-06-06
+BS0893,Willow Hill West,Hillcrest,8190,7544,no,no,yes,yes,yes,2025-06-24
+BS0894,Market Street North,Eastfield,4079,4277,yes,yes,yes,yes,no,2025-05-13
+BS0895,Quarry Street East,North,729,2364,yes,yes,yes,yes,no,2025-04-30
+BS0896,Quarry Road East,Hillcrest,6374,7400,no,no,yes,no,no,2025-06-15
+BS0897,Meadow Street North,Hillcrest,2100,7975,yes,yes,no,no,no,2025-07-24
+BS0898,Chapel Hill East,Old Town,9345,8643,yes,yes,yes,yes,yes,2025-03-30
+BS0899,Forge Road East,North,10393,7803,no,no,yes,no,yes,2025-09-09
+BS0900,Orchard Way South,North,37,6623,yes,yes,no,yes,no,2025-08-06
+BS0901,Orchard Lane,Hillcrest,5295,7068,no,no,yes,yes,no,2025-06-12
+BS0902,Station Way East,North,11577,7693,no,no,yes,yes,no,2025-08-24
+BS0903,Park Hill East,Westgate,4319,8722,yes,yes,yes,no,no,2025-03-03
+BS0904,School Street West,Hillcrest,11960,3125,yes,yes,no,yes,yes,2025-07-08
+BS0905,Bridge Road,Hillcrest,7773,6548,yes,yes,no,yes,no,2025-08-13
+BS0906,Meadow Way North,Riverside,4759,1461,yes,yes,no,yes,no,2025-04-14
+BS0907,Orchard Avenue South,North,7330,827,no,no,yes,no,no,2025-04-18
+BS0908,Meadow Avenue West,Eastfield,5647,284,no,no,yes,yes,no,2025-08-23
+BS0909,Garden Hill North,Hillcrest,1143,7978,yes,yes,yes,no,yes,2025-03-22
+BS0910,Willow Hill South,Riverside,9937,5146,no,yes,yes,yes,no,2025-08-12
+BS0911,Church Way South,Westgate,439,8381,yes,yes,yes,yes,no,2025-05-20
+BS0912,Chapel Street East,Eastfield,5472,4217,no,yes,yes,yes,yes,2025-09-06
+BS0913,Church Way West,Riverside,5544,4031,yes,yes,yes,yes,no,2025-04-24
+BS0914,Market Street West,Old Town,2412,3976,no,no,yes,yes,no,2025-09-18
+BS0915,Park Road North,Harbour,556,6813,no,no,yes,no,yes,2025-09-04
+BS0916,Park Way South,North,10757,2504,no,no,no,no,yes,2025-03-10
+BS0917,Ash Lane North,Harbour,10188,8013,yes,yes,yes,no,yes,2025-09-17
+BS0918,Garden Street West,Old Town,10463,7819,yes,yes,yes,yes,yes,2025-05-28
+BS0919,Church Avenue,Riverside,8712,6251,yes,yes,yes,no,no,2025-04-10
+BS0920,Quarry Street North,North,574,3975,yes,yes,no,yes,no,2025-04-24
+BS0921,Ash Road North,Riverside,5717,7372,yes,yes,yes,no,no,2025-03-24
+BS0922,Chapel Road East,North,1000,1724,no,no,yes,yes,yes,2025-05-03
+BS0923,Canal Hill North,Riverside,3481,2465,yes,yes,yes,no,yes,2025-06-27
+BS0924,Ash Street South,Westgate,3347,854,no,no,no,no,no,2025-05-28
+BS0925,Park Hill West,Hillcrest,11094,3573,yes,yes,no,no,no,2025-07-10
+BS0926,Garden Avenue,Hillcrest,9106,6654,yes,yes,yes,yes,no,2025-05-09
+BS0927,Orchard Way North,Riverside,2777,106,yes,yes,yes,no,yes,2025-08-07
+BS0928,Park Hill West,Riverside,10520,6373,no,no,no,no,no,2025-03-13
+BS0929,Chapel Way,North,10006,920,no,no,yes,no,no,2025-09-02
+BS0930,Park Road North,Harbour,9893,5314,no,yes,yes,yes,no,2025-08-24
+BS0931,Canal Way North,Westgate,5294,4735,yes,yes,yes,no,no,2025-07-15
+BS0932,Quarry Street,Eastfield,1720,6751,yes,yes,yes,yes,no,2025-06-02
+BS0933,Chapel Street South,Hillcrest,10977,4555,yes,yes,yes,no,no,2025-07-08
+BS0934,Garden Street West,Westgate,5834,8778,yes,yes,no,no,no,2025-08-06
+BS0935,Garden Way East,Riverside,6919,7862,yes,yes,no,no,no,2025-07-01
+BS0936,Market Street East,Westgate,5023,8378,yes,yes,yes,yes,yes,2025-04-09
+BS0937,Chapel Way West,Riverside,6194,5230,no,yes,yes,no,no,2025-04-09
+BS0938,Meadow Road North,Riverside,11579,6729,no,no,yes,yes,yes,2025-08-30
+BS0939,Ash Street South,Riverside,9404,8882,no,no,yes,yes,no,2025-04-25
+BS0940,Station Hill North,Old Town,6707,3256,no,yes,yes,no,no,2025-04-18
+BS0941,Market Hill West,Westgate,9926,6203,no,no,yes,no,yes,2025-09-14
+BS0942,Forge Road,Riverside,6102,3346,no,no,yes,yes,yes,2025-09-18
+BS0943,Mill Street East,Riverside,5572,2176,yes,yes,yes,no,no,2025-04-16
+BS0944,Church Way South,Westgate,10376,8050,yes,yes,yes,yes,no,2025-04-21
+BS0945,Meadow Road,Westgate,11947,8085,yes,yes,yes,yes,no,2025-08-17
+BS0946,Orchard Way North,Eastfield,2286,6417,yes,yes,yes,yes,no,2025-08-15
+BS0947,Canal Lane South,Westgate,7934,3036,yes,yes,yes,yes,yes,2025-07-23
+BS0948,Meadow Street West,Hillcrest,4859,3365,yes,yes,yes,no,no,2025-06-19
+BS0949,Chapel Way,Westgate,8703,8997,no,no,no,no,no,2025-06-17
+BS0950,Bridge Hill East,Harbour,6401,5149,yes,yes,no,no,no,2025-08-11
+BS0951,Orchard Lane East,Westgate,6071,457,yes,yes,no,no,no,2025-03-10
+BS0952,Garden Street,Hillcrest,6816,8235,no,no,no,yes,no,2025-08-25
+BS0953,Ash Road,Eastfield,296,8997,no,no,no,no,no,2025-08-29
+BS0954,Willow Street South,Harbour,8396,575,yes,yes,no,yes,yes,2025-04-15
+BS0955,Park Hill,Westgate,1717,2902,yes,yes,yes,yes,yes,2025-06-08
+BS0956,Mill Lane West,Westgate,9100,8151,yes,yes,no,yes,no,2025-08-17
+BS0957,Garden Way,Westgate,4306,2830,no,no,yes,yes,no,2025-05-19
+BS0958,Ash Street,Harbour,7960,7050,yes,yes,yes,yes,no,2025-07-28
+BS0959,Forge Road,Eastfield,2168,5718,no,no,yes,yes,yes,2025-09-11
+BS0960,Chapel Lane North,Westgate,3929,7354,no,no,yes,yes,no,2025-06-15
+BS0961,Market Lane,Harbour,24,404,no,no,no,no,no,2025-04-04
+BS0962,Ash Street East,Riverside,6535,2411,no,no,yes,yes,no,2025-03-05
+BS0963,Park Avenue West,Riverside,9109,4621,yes,yes,yes,no,no,2025-09-10
+BS0964,Orchard Hill West,Eastfield,3189,5097,yes,yes,yes,no,yes,2025-09-15
+BS0965,Quarry Way North,Eastfield,4351,4104,yes,yes,yes,yes,yes,2025-07-20
+BS0966,Willow Way,Old Town,5652,6896,yes,yes,no,yes,no,2025-05-11
+BS0967,Meadow Street South,Westgate,10526,1975,yes,yes,no,no,yes,2025-04-24
+BS0968,Meadow Hill West,Hillcrest,8491,8335,no,no,yes,yes,no,2025-06-23
+BS0969,Park Street East,Hillcrest,6943,7230,no,no,no,no,no,2025-03-07
+BS0970,Meadow Street West,Eastfield,7719,538,yes,yes,yes,no,no,2025-07-26
+BS0971,Church Avenue East,Eastfield,4477,2335,yes,yes,yes,no,no,2025-06-04
+BS0972,Ash Hill South,Westgate,277,2184,no,yes,yes,yes,no,2025-04-22
+BS0973,Chapel Way East,Harbour,1443,153,no,no,yes,no,no,2025-07-12
+BS0974,Quarry Street North,Harbour,3094,6489,yes,yes,yes,yes,no,2025-08-22
+BS0975,Chapel Way North,Westgate,8290,4466,no,no,yes,no,no,2025-05-23
+BS0976,Station Hill South,Riverside,4962,3280,yes,yes,yes,no,yes,2025-03-25
+BS0977,Orchard Lane North,Westgate,8331,1241,no,no,no,no,no,2025-03-15
+BS0978,Garden Hill West,Westgate,6118,4036,no,no,yes,no,no,2025-09-18
+BS0979,Ash Hill West,Hillcrest,4812,2070,no,no,yes,no,no,2025-07-03
+BS0980,Park Street North,Riverside,2450,3317,no,no,yes,no,no,2025-07-15
+BS0981,School Hill South,Old Town,11909,7005,yes,yes,yes,yes,no,2025-06-01
+BS0982,Mill Avenue East,Eastfield,5834,3250,no,yes,yes,yes,yes,2025-04-29
+BS0983,Garden Avenue,Harbour,6981,994,no,no,yes,no,no,2025-08-15
+BS0984,Willow Lane South,Harbour,9832,4835,no,no,yes,no,no,2025-07-15
+BS0985,Orchard Avenue North,Old Town,10584,1980,no,no,yes,yes,no,2025-04-22
+BS0986,School Road West,North,1305,2749,no,no,yes,no,no,2025-06-09
+BS0987,Ash Lane East,Hillcrest,10757,6697,yes,yes,yes,yes,no,2025-04-15
+BS0988,Market Road North,Old Town,11180,5720,no,no,no,yes,no,2025-08-14
+BS0989,Willow Street South,North,5719,3152,no,no,yes,yes,no,2025-04-03
+BS0990,Willow Road North,Riverside,4332,4756,yes,yes,yes,yes,no,2025-04-09
+BS0991,Meadow Hill North,Eastfield,7130,3783,yes,yes,yes,no,no,2025-08-23
+BS0992,Canal Lane North,Harbour,9029,8353,yes,yes,no,yes,yes,2025-08-28
+BS0993,Canal Road,Riverside,2304,4304,yes,yes,yes,no,no,2025-03-27
+BS0994,Canal Hill North,Riverside,10131,4449,yes,yes,yes,yes,no,2025-04-16
+BS0995,Forge Hill West,Riverside,9718,8863,yes,yes,no,no,no,2025-04-11
+BS0996,School Street West,North,3835,7433,no,no,no,yes,no,2025-05-11
+BS0997,Quarry Avenue South,Riverside,9300,5141,yes,yes,no,no,no,2025-06-06
+BS0998,Station Road,Riverside,7747,5911,yes,yes,yes,yes,no,2025-08-22
+BS0999,Quarry Hill,Eastfield,4790,2242,yes,yes,yes,no,no,2025-08-02
+BS1000,Park Lane West,North,9931,4996,no,no,yes,yes,no,2025-07-20
+BS1001,Garden Hill East,Old Town,4324,8832,yes,yes,yes,no,yes,2025-06-25
+BS1002,Chapel Road,Hillcrest,11544,4587,no,yes,yes,yes,no,2025-06-21
+BS1003,School Hill North,Old Town,5636,2816,yes,yes,yes,yes,yes,2025-07-30
+BS1004,Park Lane East,Westgate,7716,8570,yes,yes,yes,yes,no,2025-05-27
+BS1005,Ash Avenue East,Old Town,738,3285,yes,yes,no,yes,no,2025-06-21
+BS1006,Market Avenue,Harbour,3141,8123,yes,yes,no,yes,no,2025-05-29
+BS1007,Quarry Lane West,Westgate,5257,2680,no,no,no,yes,no,2025-08-05
+BS1008,School Avenue,Westgate,11308,7379,yes,yes,no,no,no,2025-03-11
+BS1009,Meadow Road North,Old Town,9879,3605,yes,yes,no,yes,yes,2025-09-01
+BS1010,Bridge Avenue North,Old Town,4714,4393,no,no,yes,no,yes,2025-06-10
+BS1011,Quarry Street East,North,10602,1696,no,no,yes,no,yes,2025-05-25
+BS1012,School Way East,Westgate,7931,8589,yes,yes,yes,yes,no,2025-05-26
+BS1013,Garden Street,Hillcrest,4236,2593,no,no,yes,no,no,2025-08-06
+BS1014,Quarry Hill,Westgate,11590,1586,no,no,no,no,yes,2025-08-11
+BS1015,Garden Road,Harbour,4753,3116,no,yes,yes,no,no,2025-07-17
+BS1016,Orchard Street South,North,5988,78,yes,yes,yes,no,no,2025-03-27
+BS1017,Church Avenue East,North,6388,2484,yes,yes,yes,yes,no,2025-06-08
+BS1018,Meadow Road East,Old Town,3441,3137,yes,yes,yes,yes,no,2025-07-04
+BS1019,Canal Street South,Riverside,6879,3445,yes,yes,no,no,no,2025-06-25
+BS1020,Market Road East,North,1916,3221,yes,yes,yes,no,no,2025-04-24
+BS1021,Park Street East,Harbour,9895,4682,no,no,yes,yes,no,2025-05-10
+BS1022,Station Lane South,Riverside,10580,5548,no,no,yes,no,yes,2025-07-31
+BS1023,School Hill,Old Town,4265,4042,no,no,yes,yes,yes,2025-06-16
+BS1024,Church Hill West,Harbour,4445,6608,yes,yes,yes,no,yes,2025-03-17
+BS1025,Park Avenue South,Westgate,2357,462,no,no,yes,yes,yes,2025-06-14
+BS1026,Bridge Street North,Westgate,3455,7723,yes,yes,yes,yes,no,2025-08-28
+BS1027,School Avenue East,Westgate,5544,5257,yes,yes,yes,yes,no,2025-05-25
+BS1028,Garden Lane East,Harbour,7985,2890,yes,yes,yes,no,no,2025-04-18
+BS1029,Quarry Hill North,Eastfield,4412,3776,no,no,yes,yes,yes,2025-08-12
+BS1030,Garden Way,Eastfield,1471,6052,no,no,no,yes,yes,2025-09-09
+BS1031,Meadow Road East,Hillcrest,4262,5974,no,no,yes,yes,no,2025-08-27
+BS1032,Market Lane,Eastfield,6185,3962,yes,yes,yes,no,no,2025-06-09
+BS1033,Garden Street South,Riverside,3547,4065,no,no,yes,yes,yes,2025-08-04
+BS1034,Bridge Road,North,4584,7649,yes,yes,yes,no,yes,2025-03-20
+BS1035,Meadow Way,Hillcrest,6031,8716,no,no,yes,yes,yes,2025-06-29
+BS1036,Park Road East,Harbour,8468,4460,no,yes,yes,no,no,2025-03-19
+BS1037,Garden Street West,Riverside,4440,5830,yes,yes,yes,no,yes,2025-07-29
+BS1038,Mill Avenue North,Hillcrest,11218,2484,yes,yes,no,no,no,2025-05-23
+BS1039,Canal Lane West,Riverside,10356,7020,no,no,yes,yes,yes,2025-08-20
+BS1040,Willow Avenue East,North,10873,944,no,no,yes,no,no,2025-06-25
+BS1041,Forge Avenue South,Riverside,1517,1678,no,no,yes,no,no,2025-08-29
+BS1042,Market Hill South,Old Town,9082,1628,no,no,yes,yes,no,2025-03-31
+BS1043,Chapel Hill North,Hillcrest,2523,7913,yes,yes,yes,yes,yes,2025-05-29
+BS1044,School Road East,Hillcrest,3427,4777,no,no,yes,yes,no,2025-05-08
+BS1045,Bridge Hill South,North,5517,4588,yes,yes,yes,no,no,2025-06-19
+BS1046,Station Road North,Westgate,11218,1660,yes,yes,yes,no,no,2025-06-07
+BS1047,Bridge Lane West,North,8120,6413,yes,yes,yes,no,no,2025-06-21
+BS1048,Bridge Avenue North,Riverside,9369,7507,no,no,yes,no,yes,2025-04-03
+BS1049,Chapel Hill East,Riverside,9938,7914,yes,yes,yes,no,yes,2025-05-21
+BS1050,Orchard Avenue West,North,3905,6120,yes,yes,yes,yes,no,2025-08-16
+BS1051,Market Hill East,North,10508,4324,no,no,yes,yes,no,2025-07-25
+BS1052,Canal Way East,Harbour,1261,7708,no,no,no,no,no,2025-03-11
+BS1053,Willow Hill East,North,4228,7905,yes,yes,yes,yes,yes,2025-08-29
+BS1054,Forge Lane,Harbour,1961,5589,yes,yes,yes,no,yes,2025-06-03
+BS1055,Market Lane,North,7732,1863,yes,yes,yes,no,yes,2025-05-01
+BS1056,Station Way East,Hillcrest,4261,8912,yes,yes,yes,yes,yes,2025-09-10
+BS1057,Church Road South,North,8295,3356,no,no,yes,yes,yes,2025-05-20
+BS1058,Ash Way East,North,8077,8359,yes,yes,yes,no,no,2025-07-07
+BS1059,Bridge Street North,Harbour,6449,2297,yes,yes,yes,yes,no,2025-06-02
+BS1060,Market Hill East,Old Town,10511,66,no,yes,yes,no,no,2025-04-02
+BS1061,Park Hill West,Old Town,262,7022,no,no,no,no,yes,2025-04-21
+BS1062,Market Road West,Hillcrest,7202,641,yes,yes,no,no,no,2025-08-05
+BS1063,Ash Avenue West,Westgate,4794,1540,no,yes,no,yes,no,2025-07-21
+BS1064,Mill Way,Westgate,6338,5635,no,no,no,no,no,2025-07-26
+BS1065,Quarry Street East,Eastfield,3005,1373,yes,yes,no,yes,yes,2025-07-21
+BS1066,Canal Street North,Old Town,3261,3822,no,no,yes,yes,yes,2025-07-19
+BS1067,Quarry Way East,North,293,3145,no,no,no,yes,no,2025-09-08
+BS1068,Market Lane East,North,2180,3569,yes,yes,yes,no,no,2025-06-01
+BS1069,Ash Lane North,Harbour,10422,6590,yes,yes,no,no,no,2025-06-24
+BS1070,Church Avenue West,Old Town,7170,3491,no,no,no,yes,no,2025-07-30
+BS1071,Canal Road South,Harbour,11384,2031,no,yes,yes,yes,no,2025-03-26
+BS1072,Ash Hill North,Westgate,7555,3998,no,no,yes,yes,yes,2025-08-24
+BS1073,Garden Street East,North,3387,3097,yes,yes,yes,no,no,2025-05-20
+BS1074,Forge Lane East,Hillcrest,5868,3257,yes,yes,yes,yes,no,2025-08-26
+BS1075,Park Road,Riverside,8894,8160,yes,yes,yes,no,yes,2025-07-22
+BS1076,Ash Street West,Riverside,11436,6643,no,no,no,no,no,2025-07-31
+BS1077,Canal Hill North,Old Town,10894,1487,yes,yes,no,yes,no,2025-08-21
+BS1078,Bridge Street North,Harbour,7467,806,yes,yes,yes,no,yes,2025-06-02
+BS1079,Orchard Lane,North,1107,8889,yes,yes,yes,yes,no,2025-04-26
+BS1080,Park Street South,Riverside,8947,7481,yes,yes,yes,yes,no,2025-09-08
+BS1081,Station Road East,Eastfield,3187,6401,yes,yes,yes,yes,no,2025-07-28
+BS1082,Church Hill East,Harbour,4432,5407,yes,yes,yes,no,no,2025-06-24
+BS1083,Garden Street,North,6915,6781,no,no,yes,yes,no,2025-07-18
+BS1084,Mill Street,Westgate,279,2854,yes,yes,yes,yes,no,2025-03-31
+BS1085,Willow Street,North,2855,3352,yes,yes,yes,yes,yes,2025-06-21
+BS1086,Quarry Street South,Eastfield,7452,7583,no,no,yes,no,yes,2025-04-24
+BS1087,Station Street South,Eastfield,6123,843,no,no,yes,yes,yes,2025-05-30
+BS1088,Ash Avenue South,Harbour,8540,1217,no,no,yes,no,no,2025-05-10
+BS1089,Station Avenue East,Eastfield,6186,2405,yes,yes,yes,yes,no,2025-07-30
+BS1090,School Way East,Westgate,11016,7319,no,yes,no,yes,no,2025-03-29
+BS1091,School Avenue North,Harbour,7813,6378,yes,yes,yes,yes,yes,2025-04-17
+BS1092,Market Way West,Westgate,11929,1659,yes,yes,yes,yes,yes,2025-04-25
+BS1093,Ash Lane East,Westgate,2866,3240,yes,yes,yes,no,no,2025-09-04
+BS1094,Forge Way West,Harbour,3317,7906,yes,yes,yes,no,no,2025-05-10
+BS1095,Station Way East,Hillcrest,11855,5750,no,no,yes,no,yes,2025-06-01
+BS1096,Garden Lane South,Hillcrest,1444,7043,yes,yes,yes,yes,no,2025-09-10
+BS1097,Willow Lane East,North,8994,3072,yes,yes,yes,yes,yes,2025-09-02
+BS1098,Station Lane West,Old Town,6844,2586,yes,yes,yes,yes,no,2025-03-18
+BS1099,Park Avenue East,North,6194,6912,yes,yes,yes,yes,no,2025-09-13
+BS1100,Bridge Way South,Westgate,5187,372,yes,yes,yes,no,no,2025-06-22
+BS1101,School Street East,Riverside,9679,917,yes,yes,yes,no,no,2025-07-29
+BS1102,Ash Street West,Riverside,4586,8296,no,no,yes,yes,no,2025-03-30
+BS1103,Chapel Road,Eastfield,8748,1567,yes,yes,yes,no,no,2025-06-04
+BS1104,Willow Avenue South,North,5231,632,yes,yes,yes,no,no,2025-06-11
+BS1105,Meadow Avenue West,Westgate,11011,6910,yes,yes,yes,yes,no,2025-04-11
+BS1106,Meadow Hill,North,1654,8434,no,no,yes,yes,no,2025-07-13
+BS1107,Mill Way North,North,11025,1966,yes,yes,yes,yes,yes,2025-05-13
+BS1108,Church Avenue East,Harbour,5155,5701,yes,yes,yes,yes,yes,2025-07-18
+BS1109,Garden Avenue South,Westgate,7206,1875,yes,yes,no,yes,no,2025-07-10
+BS1110,Church Road East,Westgate,8646,8838,yes,yes,yes,no,no,2025-06-25
+BS1111,Quarry Street West,Hillcrest,5765,1295,yes,yes,yes,yes,yes,2025-06-12
+BS1112,Ash Way North,Hillcrest,10730,5346,yes,yes,no,no,yes,2025-05-04
+BS1113,Forge Street West,Hillcrest,7118,2541,yes,yes,yes,no,no,2025-03-27
+BS1114,Chapel Hill East,Hillcrest,1937,7999,yes,yes,yes,yes,no,2025-04-06
+BS1115,Orchard Way South,Hillcrest,5248,8836,no,no,yes,yes,no,2025-03-10
+BS1116,Mill Way North,Harbour,626,3488,no,no,no,yes,no,2025-08-29
+BS1117,Willow Way North,Riverside,3236,6619,yes,yes,yes,yes,yes,2025-08-03
+BS1118,Church Avenue,Hillcrest,1305,2003,yes,yes,yes,yes,no,2025-07-26
+BS1119,Ash Lane South,Eastfield,3714,1062,yes,yes,yes,no,yes,2025-03-28
+BS1120,Forge Avenue East,North,4893,4345,no,yes,yes,yes,no,2025-05-02
+BS1121,Ash Hill,Hillcrest,1411,8621,yes,yes,no,yes,no,2025-06-02
+BS1122,Station Lane West,North,1879,1103,yes,yes,no,yes,yes,2025-06-29
+BS1123,Church Hill West,Westgate,5436,3979,yes,yes,yes,no,no,2025-04-26
+BS1124,Willow Street North,North,7712,1088,no,no,yes,yes,yes,2025-05-04
+BS1125,Forge Lane West,Harbour,3827,8100,no,no,no,yes,no,2025-04-28
+BS1126,Market Way East,Eastfield,7732,6386,no,no,yes,no,yes,2025-04-09
+BS1127,Chapel Avenue East,North,3980,609,yes,yes,yes,yes,no,2025-07-13
+BS1128,Market Hill North,North,6113,8523,no,no,no,no,no,2025-09-04
+BS1129,Station Street North,North,8827,4743,yes,yes,yes,no,no,2025-07-25
+BS1130,Chapel Avenue South,Harbour,5354,6665,no,no,yes,no,no,2025-05-08
+BS1131,Chapel Way,Old Town,5301,8002,yes,yes,yes,no,yes,2025-06-21
+BS1132,Ash Lane East,Harbour,5024,6165,yes,yes,yes,no,yes,2025-07-01
+BS1133,Willow Lane West,Harbour,10892,3316,yes,yes,yes,no,no,2025-05-23
+BS1134,School Avenue,Harbour,8476,7457,no,no,yes,no,no,2025-08-12
+BS1135,Ash Way North,Westgate,8703,8434,no,yes,yes,yes,yes,2025-03-27
+BS1136,Quarry Hill East,Harbour,7715,2556,no,no,yes,yes,yes,2025-07-04
+BS1137,Park Avenue North,Riverside,6857,6093,no,no,yes,no,no,2025-05-03
+BS1138,Canal Lane,North,5969,4967,yes,yes,yes,yes,yes,2025-04-30
+BS1139,Station Way East,Eastfield,7570,828,yes,yes,yes,yes,no,2025-05-03
+BS1140,Quarry Avenue East,Westgate,531,4798,yes,yes,yes,no,no,2025-05-01
+BS1141,Church Lane South,Hillcrest,3994,3712,no,no,no,no,no,2025-09-03
+BS1142,Ash Avenue South,Riverside,4214,8929,yes,yes,yes,no,no,2025-03-30
+BS1143,Meadow Avenue North,Eastfield,78,5122,no,yes,yes,yes,no,2025-04-13
+BS1144,Garden Street West,Hillcrest,1700,2671,no,no,yes,yes,yes,2025-07-01
+BS1145,Ash Way East,Old Town,1039,804,yes,yes,yes,yes,yes,2025-08-13
+BS1146,Station Street South,Westgate,1587,981,no,no,yes,no,no,2025-07-26
+BS1147,Station Hill,Hillcrest,9427,608,yes,yes,yes,no,yes,2025-05-20
+BS1148,Station Road,Riverside,9786,1532,no,no,no,yes,no,2025-08-13
+BS1149,Bridge Road South,Eastfield,9656,3596,no,yes,yes,no,no,2025-03-21
+BS1150,Park Road East,Eastfield,6776,8756,yes,yes,yes,no,no,2025-06-26
+BS1151,Bridge Street East,Westgate,6725,1465,yes,yes,yes,no,yes,2025-08-01
+BS1152,Willow Lane East,Riverside,1145,7274,no,yes,no,yes,no,2025-04-25
+BS1153,Garden Lane North,Eastfield,7420,2950,no,no,yes,yes,no,2025-04-05
+BS1154,Quarry Hill South,Eastfield,1843,8595,yes,yes,no,no,no,2025-06-29
+BS1155,School Avenue,Hillcrest,11833,5385,yes,yes,yes,yes,yes,2025-04-03
+BS1156,Bridge Street North,Harbour,9887,2452,yes,yes,no,yes,no,2025-04-17
+BS1157,Canal Street East,Riverside,4,7101,yes,yes,yes,yes,yes,2025-05-08
+BS1158,Chapel Road,Eastfield,4491,7775,yes,yes,no,yes,yes,2025-05-07
+BS1159,Chapel Street North,Hillcrest,11163,3744,no,no,yes,yes,no,2025-09-01
+BS1160,Quarry Street North,Harbour,1190,2016,no,yes,yes,yes,yes,2025-03-31
+BS1161,Park Hill East,Riverside,8083,8532,yes,yes,yes,yes,no,2025-03-07
+BS1162,Orchard Hill,Eastfield,376,8961,yes,yes,no,yes,yes,2025-05-23
+BS1163,Mill Road South,Harbour,6670,752,yes,yes,yes,yes,no,2025-06-22
+BS1164,Station Lane East,Old Town,8,3321,no,yes,yes,no,yes,2025-04-11
+BS1165,Market Road West,Westgate,5207,7437,yes,yes,yes,yes,yes,2025-07-29
+BS1166,Church Road East,Hillcrest,3776,2031,yes,yes,yes,yes,no,2025-03-17
+BS1167,Willow Way West,Harbour,8012,730,no,no,no,yes,no,2025-04-23
+BS1168,Mill Street East,Harbour,6581,6132,no,no,yes,no,no,2025-07-19
+BS1169,Orchard Lane North,Eastfield,1342,2805,yes,yes,yes,no,no,2025-07-13
+BS1170,Canal Hill East,North,983,3163,no,no,no,no,no,2025-07-04
+BS1171,Mill Hill East,Riverside,1175,228,no,yes,yes,no,no,2025-06-17
+BS1172,Bridge Lane South,Hillcrest,9651,2291,no,no,yes,no,no,2025-04-21
+BS1173,School Avenue South,Hillcrest,3018,3186,yes,yes,no,no,no,2025-04-16
+BS1174,Park Avenue South,Hillcrest,11139,2869,no,no,yes,no,no,2025-03-03
+BS1175,Station Street,Riverside,9387,8000,yes,yes,no,no,no,2025-07-19
+BS1176,Bridge Lane,Westgate,11552,408,no,yes,yes,no,yes,2025-06-07
+BS1177,Canal Avenue South,Harbour,8400,7815,no,no,yes,yes,yes,2025-04-20
+BS1178,Ash Street West,Eastfield,5271,1200,yes,yes,no,yes,no,2025-08-05
+BS1179,Meadow Hill North,North,7461,3730,no,no,yes,no,no,2025-08-25
+BS1180,Mill Street West,Old Town,3955,5799,yes,yes,no,no,yes,2025-08-18
+BS1181,Chapel Way South,Westgate,3464,4435,no,no,yes,no,no,2025-08-27
+BS1182,Garden Lane North,Westgate,4434,6882,no,no,no,yes,yes,2025-04-13
+BS1183,Garden Avenue West,Hillcrest,8983,5397,yes,yes,yes,yes,no,2025-07-25
+BS1184,Orchard Avenue North,Eastfield,8540,1629,yes,yes,yes,yes,yes,2025-07-17
+BS1185,Ash Road East,Riverside,233,5580,no,no,no,no,yes,2025-08-03
+BS1186,Garden Avenue South,Harbour,4299,6216,yes,yes,yes,no,yes,2025-06-22
+BS1187,Forge Avenue South,Westgate,8387,5645,yes,yes,yes,no,no,2025-08-27
+BS1188,Canal Road East,Harbour,8165,3625,yes,yes,yes,no,no,2025-04-15
+BS1189,Canal Way East,Riverside,7580,959,no,no,yes,no,yes,2025-03-10
+BS1190,Forge Lane North,Old Town,2600,732,yes,yes,yes,yes,yes,2025-04-05
+BS1191,Market Hill East,Harbour,5182,7080,no,no,yes,no,no,2025-06-22
+BS1192,Park Road West,Eastfield,6605,1878,yes,yes,yes,no,no,2025-03-22
+BS1193,Station Hill West,North,10018,8870,yes,yes,no,yes,no,2025-07-29
+BS1194,Orchard Hill North,Hillcrest,6132,8751,yes,yes,yes,no,yes,2025-06-14
+BS1195,School Street North,Harbour,11009,3607,no,yes,yes,yes,yes,2025-06-11
+BS1196,Ash Road West,North,10382,2829,yes,yes,yes,no,yes,2025-08-21
+BS1197,Canal Hill North,Westgate,1614,7802,no,no,yes,no,no,2025-04-20
+BS1198,Quarry Road West,Hillcrest,8186,7276,yes,yes,yes,no,no,2025-05-12
+BS1199,Bridge Road East,Eastfield,9957,2563,yes,yes,yes,yes,no,2025-05-24
+BS1200,Orchard Lane,Harbour,2022,297,no,no,yes,no,yes,2025-05-28
+BS1201,Meadow Lane,Old Town,6770,6472,yes,yes,yes,no,yes,2025-04-07
+BS1202,School Road South,Eastfield,1150,6459,yes,yes,no,no,no,2025-04-28
+BS1203,Mill Hill South,Eastfield,7556,1049,yes,yes,yes,no,no,2025-04-01
+BS1204,Garden Street South,Old Town,5576,2830,yes,yes,no,no,yes,2025-09-14
+BS1205,Canal Street North,Eastfield,8907,2028,yes,yes,no,yes,no,2025-08-10
+BS1206,Park Hill,Riverside,10869,1796,no,no,yes,yes,no,2025-07-16
+BS1207,Garden Street East,Riverside,4689,7773,no,yes,yes,yes,yes,2025-04-04
+BS1208,Willow Hill South,North,5373,3033,yes,yes,yes,yes,no,2025-08-05
+BS1209,Market Hill East,Eastfield,4241,2917,no,no,yes,yes,no,2025-08-11
+BS1210,School Lane East,Old Town,10981,5784,no,no,yes,yes,yes,2025-05-02
+BS1211,Quarry Avenue East,Hillcrest,3460,5710,no,no,no,yes,no,2025-04-16
+BS1212,Ash Road South,North,4722,5345,yes,yes,yes,no,no,2025-07-22
+BS1213,Garden Avenue,Harbour,4669,1657,yes,yes,yes,no,no,2025-04-12
+BS1214,Forge Avenue North,Westgate,6469,6198,yes,yes,yes,no,no,2025-06-15
+BS1215,Forge Lane East,Westgate,5168,3228,yes,yes,yes,yes,yes,2025-03-03
+BS1216,Forge Way East,Old Town,6569,6102,no,no,yes,yes,no,2025-04-25
+BS1217,Mill Street North,Old Town,11977,8113,no,no,yes,yes,no,2025-06-21
+BS1218,Canal Avenue South,Riverside,4548,6043,no,no,yes,no,yes,2025-06-29
+BS1219,Market Hill East,Riverside,4415,4577,yes,yes,yes,no,yes,2025-09-13
+BS1220,Church Avenue West,Eastfield,10138,6854,no,no,yes,yes,no,2025-08-12
+BS1221,Orchard Way East,Westgate,447,583,yes,yes,yes,yes,no,2025-05-25
+BS1222,Garden Road,Westgate,6738,1562,yes,yes,yes,yes,no,2025-07-12
+BS1223,Garden Hill South,Old Town,4694,4268,yes,yes,no,yes,yes,2025-03-08
+BS1224,Park Way East,Harbour,2450,6990,yes,yes,no,no,yes,2025-04-01
+BS1225,Market Street North,Harbour,2573,7547,no,no,yes,no,no,2025-07-17
+BS1226,Station Street North,Eastfield,6213,5292,no,no,yes,no,yes,2025-04-20
+BS1227,Mill Way North,Hillcrest,8491,8992,yes,yes,yes,no,no,2025-04-09
+BS1228,Mill Road West,North,9674,3103,yes,yes,yes,yes,no,2025-07-04
+BS1229,Bridge Road,Old Town,2681,2261,no,yes,no,no,no,2025-07-19
+BS1230,Chapel Way West,Riverside,11914,2532,yes,yes,no,no,yes,2025-03-04
+BS1231,Church Way South,North,1587,2152,yes,yes,no,yes,yes,2025-07-21
+BS1232,Park Avenue South,Westgate,7670,2302,no,no,yes,no,no,2025-05-27
+BS1233,Bridge Street South,Eastfield,3184,6262,no,no,no,yes,no,2025-06-04
+BS1234,Quarry Road North,Old Town,7142,4072,yes,yes,yes,yes,yes,2025-03-15
+BS1235,Willow Avenue South,North,1190,7296,no,yes,yes,yes,no,2025-09-03
+BS1236,Chapel Avenue West,Westgate,886,470,no,no,yes,no,no,2025-07-07
+BS1237,Forge Lane South,Eastfield,5626,4701,yes,yes,yes,yes,yes,2025-04-28
+BS1238,Park Road South,Old Town,8136,7218,no,no,yes,yes,no,2025-08-30
+BS1239,School Hill East,Hillcrest,3375,1392,yes,yes,yes,yes,no,2025-09-04
+BS1240,Quarry Avenue,North,8873,322,no,no,yes,no,yes,2025-06-12
